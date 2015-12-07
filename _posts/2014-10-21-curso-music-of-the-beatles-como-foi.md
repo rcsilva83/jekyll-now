@@ -13,7 +13,9 @@ tags:
   - beatles
 ---
 Seguindo a série de artigos sobre cursos musicais do site [Coursera](http://coursera.org), é a vez de falar como foi o curso "[The Music of The Beatles](https://www.coursera.org/course/beatles)". Com certeza um curso sobre a maior banda de todos os tempos é obrigatório para qualquer amante de rock n' roll! Você é "metaleiro true" e odeia os Beatles? Antes de fechar a janela, leia este meu pequeno resumo para saber porquê você deve fazer este curso :) 
+
 <!-- more -->
+
 O professor deste curso é o excelente John Covach, mesmo professor dos cursos de História do Rock ([o qual já falei a respeito](/curso-history-of-rock-como-foi)). E, por isso mesmo, o curso segue o mesmo formato e ritmo, com muita informação e muitas músicas para ouvir. Mas lembre-se que é um curso sobre a **música** dos Beatles e não sobre sua história. Então, não será aqui que você vai descobrir se a Yoko foi a culpada da dissolução da banda!
 
 Na **primeira semana** vemos o início da carreira da banda desde quando eram apenas uma banda cover tocando em *pubs* em Liverpool e em Hamburgo. Nesta época eles tinham uma rotina muito cansativa e eram famosos por fazerem versões covers com bastante perfeição. Não demorou para que conseguissem assinar com uma gravadora e começar a emplacar diversos *hit singles*, conseguindo grande sucesso no Reino Unido! Nesta semana vimos músicas dos ábuns "Please Please Me", "With the Beatles" e os *singles* do período, uma época em que o som da banda era basicamente uma repetição do que fazia sucesso na época.
