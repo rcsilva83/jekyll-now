@@ -7,7 +7,7 @@ permalink: /about/
 De forma rápida, o objetivo do blog é disponibilizar material que possa ser útil para 
 as pessoas, mas que não encontrei na Internet. São dicas com temas variando entre música, tecnologia, software livre ou tudo ao mesmo tempo.
 
-Se deseja acompanhar o blog, adicione o <a href="http://www.rodrigocarvalho.blog.br/feed/" target="_blank">feed RSS</a> no seu agregador de *feeds* (recomendo o <a title="Site do Tiny Tiny RSS" href="http://www.tt-rss.org/" target="_blank">Tiny Tiny RSS</a>) ou se cadastre para receber as notícias por e-mail através do link à esquerda.
+Se deseja acompanhar o blog, adicione o <a href="http://feeds.feedburner.com/RodrigoCarvalho" target="_blank">feed RSS</a> no seu agregador de *feeds* (recomendo o <a title="Site do Tiny Tiny RSS" href="http://www.tt-rss.org/" target="_blank">Tiny Tiny RSS</a>) ou se cadastre para receber as notícias por e-mail através do link à esquerda.
 
 Meus links na internet:
 
