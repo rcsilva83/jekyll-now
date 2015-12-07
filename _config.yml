@@ -4,9 +4,11 @@
 
 # Name of your site (displayed in the header)
 name: Rodrigo Carvalho
+title: Rodrigo Carvalho
 
 # Short bio or description (displayed in the header)
 description: Tecnologia, música e liberdade
+tagline: Tecnologia, música e liberdade
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s.gravatar.com/avatar/91de2067b259f05dcefa3b29ee10a5dd?s=140
@@ -14,6 +16,8 @@ avatar: https://s.gravatar.com/avatar/91de2067b259f05dcefa3b29ee10a5dd?s=140
 #
 # Flags below are optional
 #
+
+paginate:         5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -25,7 +29,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: http://feeds.feedburner.com/RodrigoCarvalho # just type anything here for a working RSS icon
   twitter: rcsilva83
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: RodrigoCarvalhoSilva # channel/<your_long_string> or user/<user-name>
@@ -47,7 +51,7 @@ url: http://rodrigocarvalho.blog.br
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -56,14 +60,15 @@ baseurl: ""
 markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
+relative_permalinks: true
 excerpt_separator: <!-- more -->
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
 
 # Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+#sass:
+#  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
