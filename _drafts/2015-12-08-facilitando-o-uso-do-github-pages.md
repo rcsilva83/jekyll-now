@@ -25,3 +25,5 @@ Já o Pose.io é uma interface de escrita de texto integrada ao Github. Com ele,
 
 A migração do Octopress para o Jekyll é bastante simples, já que o Octopress é feito sobre o Jekyll. Tive que basicamente alterar os arquivos de configuração do Jekyll e copiar os arquivos Markdown de posts e páginas do antigo blog para o novo. Pronto! O blog já estava pronto para ir para o ar!
 
+PS: Quem acompanha este blog via feed RSS ou e-mail, deve ter reparado um problema. Na tansição de uma plataforma para outra (isso também aconteceu quando migrei do Wordpress) o feed foi todo refeito e os leitores de RSS reconheceram todos os posts como novos. Peço desculpas pelo inconveniente e espero que isto não aconteça novamente :)
+
