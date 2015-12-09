@@ -3,8 +3,6 @@ published: false
 ---
 
 
-
-
 ## Facilitando o uso do Github Pages
 
 Há pouco mais de 1 ano resolvi migrar o meu blog do [Wordpress](https://wordpress.org/) para o [Octopress](http://octopress.org/). Estava muito satisfeito com o Wordpress, mas achava que não fazia mais sentido eu pagar uma hospedagem para o blog. O Octopress me possibilitou o uso da hospedagem gratuita do [Github Pages](https://pages.github.com/) (mantendo o meu domínio) além de outros benefícios como:
