@@ -1,9 +1,16 @@
 ---
 published: true
 layout: post
+categories: 
+  - Dicas
+  - Tecnologia
+tags: 
+  - wordpress
+  - octopress
+  - jekyll
+  - "github-pages"
+date: "2015-12-09 21:29:00 -0300"
 ---
-
-
 
 
 ## Facilitando o uso do Github Pages
