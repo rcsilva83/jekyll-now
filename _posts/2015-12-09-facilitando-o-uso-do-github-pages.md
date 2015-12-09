@@ -14,9 +14,13 @@ date: "2015-12-09 21:29:00 -0300"
 
 
 Há pouco mais de 1 ano resolvi migrar o meu blog do [Wordpress](https://wordpress.org/) para o [Octopress](http://octopress.org/). Estava muito satisfeito com o Wordpress, mas achava que não fazia mais sentido eu pagar uma hospedagem para o blog. O Octopress me possibilitou o uso da hospedagem gratuita do [Github Pages](https://pages.github.com/) (mantendo o meu domínio) além de outros benefícios como:
+
 1. Reduziu drasticamente o tempo de carregamento das páginas;
+
 2. Agora quase nunca o blog fica fora do ar;
+
 3. Sistema de templates muito mais simples, facilitando ajustes no tema visual;
+
 4. Maior segurança, eliminando a preocupação de manter o sistema constantemente atualizado;
 
 <!-- more -->
@@ -26,7 +30,9 @@ Mas, é claro, nem tudo são flores e eu já sabia disso. O Wordpress é muito f
 ### Simplificando
 
 Depois de algum tempo descontente com esta situção, conheci algumas ferramentas que me pareceram muito interessantes:
+
 1. [Jekyll Now](http://www.jekyllnow.com/)
+
 2. [Prose.io](http://prose.io/)
 
 O Jekyll Now é um projeto que facilita a configuração inicial de sites Jekyll a serem hospedados no Github Pages: é só dar um "fork" e começar a usar. Como o Github Pages suporta o Jekyll nativamente, é possível utilizar a própria interface do Github para escrever posts de qualquer lugar. E o Jekyll Now ainda trás suporte a Google Analytics e ao Disqus sem o uso de plugins, já que eles não são suportados pela hospedagem do Github. 
