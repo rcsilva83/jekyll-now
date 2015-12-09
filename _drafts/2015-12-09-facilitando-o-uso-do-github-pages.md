@@ -2,9 +2,10 @@
 published: false
 ---
 
+
 ## Facilitando o uso do Github Pages
 
-Há pouco mais de 1 ano resolvi migrar o meu blog do [Wordpress](https://wordpress.org/) para o [Octopress](http://octopress.org/). Estava muito satisfeito com o Wordpress, mas achava que não fazia mais sentido eu pagar uma hospedagem para o blog. O Octopress me possibilitou o uso da hospedagem gratuita do [Github Pages](https://pages.github.com/) além de outros benefícios como:
+Há pouco mais de 1 ano resolvi migrar o meu blog do [Wordpress](https://wordpress.org/) para o [Octopress](http://octopress.org/). Estava muito satisfeito com o Wordpress, mas achava que não fazia mais sentido eu pagar uma hospedagem para o blog. O Octopress me possibilitou o uso da hospedagem gratuita do [Github Pages](https://pages.github.com/) (mantendo o meu domínio) além de outros benefícios como:
 1. Reduziu drasticamente o tempo de carregamento das páginas;
 2. Agora quase nunca o blog fica fora do ar;
 3. Sistema de templates muito mais simples, facilitando ajustes no tema visual;
@@ -29,4 +30,3 @@ Como o Octopress é feito sobre o Jekyll, a migração é muito simples. Basicam
 Ainda é muito cedo para dizer que esta configuração está ideal, mas a experiência de escrever este post já foi muito melhor! 
 
 PS: Quem acompanha este blog via feed RSS ou e-mail, deve ter reparado um problema. Na tansição de uma plataforma para outra (isso também aconteceu quando migrei do Wordpress) o feed foi todo refeito e os leitores de RSS reconheceram todos os posts como novos. Peço desculpas pelo inconveniente e espero que isto não aconteça novamente :)
-
