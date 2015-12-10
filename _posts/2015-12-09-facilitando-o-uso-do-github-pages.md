@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Facilitando o uso do Github Pages
 categories: 
   - Dicas
   - Tecnologia
