@@ -8,6 +8,9 @@ categories:
   - Música
 tags:
   - ear-training
+  - coursera
+  - intervalo-musical
+  - escala-musical
 ---
 Como músico (mesmo que amador), estou sempre estudando e tentando manter os ouvidos bem apurados. Já comentei algumas vezes aqui no blog sobre os cursos de música do Coursera e um deles, o [Developing Your Musicianship](https://www.coursera.org/learn/develop-your-musicianship), foi onde ouvi falar pela primeira vez do "ear training".
 
