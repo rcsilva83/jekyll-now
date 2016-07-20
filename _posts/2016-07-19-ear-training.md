@@ -14,7 +14,7 @@ tags:
 ---
 Como músico (mesmo que amador), estou sempre estudando e tentando manter os ouvidos bem apurados. Já comentei algumas vezes aqui no blog sobre os cursos de música do Coursera e um deles, o [Developing Your Musicianship](https://www.coursera.org/learn/develop-your-musicianship), foi onde ouvi falar pela primeira vez do "ear training".
 
-Este "treino de ouvido" consiste em fazer exercícios que nos ajudam a identificar [intervalos](https://pt.wikipedia.org/wiki/Intervalo_(m%C3%BAsica) entre duas notas musicais. Por exemplo, com um ouvido treinado, você conseguirá identificar ouvindo uma nota "dó" seguida de uma "mi" como um intervalo de "terça". Veja que isto é diferente do "ouvido absoluto", quando a pessoa consegue identificar um "Lá" sem qualquer tipo de referência extra.
+Este "treino de ouvido" consiste em fazer exercícios que nos ajudam a identificar [intervalos](https://pt.wikipedia.org/wiki/Intervalo_(m%C3%BAsica)) entre duas notas musicais. Por exemplo, com um ouvido treinado, você conseguirá identificar ouvindo uma nota "dó" seguida de uma "mi" como um intervalo de "terça". Veja que isto é diferente do "ouvido absoluto", quando a pessoa consegue identificar um "Lá" sem qualquer tipo de referência extra.
 
 Outro benefício do ear training é o de conseguir identificar, dada uma [escala](https://pt.wikipedia.org/wiki/Escala_musical), qual é o itervalo da nota tocada em relação à tônica. Por exemplo, dado uma escala de Dó Maior, você conseguirá identificar um intervalo de uma "quinta" quando uma nota "sol" for tocada. Interessante, né? Mas como treinar?
 
