@@ -22,13 +22,14 @@ Outro benefício do ear training é o de conseguir identificar, dada uma [escala
 
 Sendo eu baterista, não tenho muito contato com instrumentos harmônicos e melódicos, então a melhor alternativa que encontrei para fazer o ear training é com ajuda de um aplicativo e o melhor que encontrei foi o **Functional Ear Trainer**. Tenho reservado 10 minutos por dia para fazer estes exercícios.
 
-![Primeiro menu]({{site.baseurl}}/images/ear-training-menu1.png)
+![Primeiro menu](/images/ear-training-menu1.png)
 
 Disponível para [desktop](http://www.miles.be/software/34-functional-ear-trainer-v2), [Android](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android) e [iOS](https://itunes.apple.com/kg/app/functional-ear-trainer/id1088761926), este aplicativo se baseia num método para identificar as notas dentro de uma determinada escala e trabalha com níveis predefinidos e treinos personalizados. Os 4 níveis básicos podem ser vistos na imagem abaixo.
 
-![Segundo menu]({{site.baseurl}}/images/ear-training-menu2.png)
+![Segundo menu](/images/ear-training-menu2.png)
 
 Dentro de cada nível, existem 8 subníveis progressivamente mais difíceis que você treina até conseguir 90% de acerto para ir ao próximo. Eles são:
+
 1. Escala de dó (primeira metade de uma oitava)
 1. Escala de dó (segunda metade de uma oitava)
 1. Escala de dó (uma oitava inteira)
@@ -40,10 +41,10 @@ Dentro de cada nível, existem 8 subníveis progressivamente mais difíceis que 
 
 Na imagem abaixo você pode ver que estou no subnível 5 do nível "Escala Maior".
 
-![Terceiro menu]({{site.baseurl}}/images/ear-training-menu3.png)
+![Terceiro menu](/images/ear-training-menu3.png)
 
 Ele ainda tem um gráfico com o histórico de tentativas naquele subnível, que é muito interessante para ver a nossa evolução!
 
-![Histórico]({{site.baseurl}}/images/ear-training-historico.png)
+![Histórico](/images/ear-training-historico.png)
 
 Se te interessou, lembre-se: tente reservar 10 minutos por dia para exercitar seu ouvido. Tenha paciência que não é fácil, mas, com persistência, você conseguirá melhorar bastante sua percepção musical!
