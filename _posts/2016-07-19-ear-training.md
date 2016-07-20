@@ -18,6 +18,8 @@ Este "treino de ouvido" consiste em fazer exercícios que nos ajudam a identific
 
 Outro benefício do ear training é o de conseguir identificar, dada uma [escala](https://pt.wikipedia.org/wiki/Escala_musical), qual é o itervalo da nota tocada em relação à tônica. Por exemplo, dado uma escala de Dó Maior, você conseguirá identificar um intervalo de uma "quinta" quando uma nota "sol" for tocada. Interessante, né? Mas como treinar?
 
+<!-- more -->
+
 ## Functional Ear Training
 
 Sendo eu baterista, não tenho muito contato com instrumentos harmônicos e melódicos, então a melhor alternativa que encontrei para fazer o ear training é com ajuda de um aplicativo e o melhor que encontrei foi o **Functional Ear Trainer**. Tenho reservado 10 minutos por dia para fazer estes exercícios.
