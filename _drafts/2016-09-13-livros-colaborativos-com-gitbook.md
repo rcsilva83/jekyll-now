@@ -29,16 +29,18 @@ Finalmente encontrei (através de uma dica da [Espírito Livre](http://www.revis
 
 ### Gitbook na prática
 
-Comecei importando o meu documento texto para o Gitbook e gastei um tempo formatando. É possível editar a partir da web, mas ele oferece um aplicativo desktop que possui mais funções.
+Comecei importando o documento texto que já tinha escrito antes para o Gitbook e precisei de um tempo formatar o conteúdo melhor. Para editar, é possível utilizar o próprio site, mas ele oferece um aplicativo desktop que possui mais funções.
 
-Outra funcionalidade muito interessante é o uso de plugins e ele possui um [repositório](https://plugins.gitbook.com/) repleto deles! No meu caso, eu precisava adicionar partituras musicais na minha apostila. Poderia fazer com imagens, mas seria um pouco trabalhoso. Então preferi [utilizar um plugin](https://plugins.gitbook.com/plugin/abc2svg) para gerar as partituras para mim.
+Uma das funcionalidade que achei mais interessantes é o uso de plugins e ele possui um [repositório](https://plugins.gitbook.com/) repleto deles! No meu caso, eu precisava adicionar partituras musicais na minha apostila, das quais poderia utilizar com imagens, mas seria um pouco trabalhoso. Então preferi [utilizar um plugin](https://plugins.gitbook.com/plugin/abc2svg) para gerar as partituras para mim.
 
-Um recurso que já tinha adiantado antes, e que pode ser interessante para os usuários mais técnicos, é o de colocar os "arquivos fonte" do livro num repositório no Github. Se você nem faz ideia do que isto seja, não se perocupe que o Gitbook utiliza por padrão um repositório dele próprio que você não precisa configurar nada.
+Algo que já tinha adiantado antes, e que pode ser interessante para os usuários mais técnicos, é a opção de colocar os "arquivos fonte" do livro num repositório no Github e abrir mais possibilidades de colaboração. Se você nem faz ideia do que seja Github, não se preocupe que o Gitbook utiliza por padrão um repositório dele próprio que você não precisa configurar nada.
 
-No entanto, nem tudo são flores. O editor de texto visual se mostrou um tanto "bugado", desformatando o texto diversas vezes após salvar o trabalho. Em determinados momentos, eu simplesmente desisti do editor visual e trabalhei com o Markdown mesmo. Isso pode ser uma barreira para quem não tiver conhecimento técnico.
+No entanto, nem tudo são flores. O editor de texto visual se mostrou um tanto problemático, desformatando o texto diversas vezes após salvar o trabalho. Em determinados momentos, eu simplesmente desisti do editor visual e trabalhei direto com o código Markdown mesmo. Isso pode ser uma barreira para quem não tiver conhecimento técnico.
 
 Além disso, se você utilizar um plugin numa determinada página do livro, necessariamente terá que abrir mão do editor de texto visual nesta página e trabalhar direto com o Markdown. Mas o que realmente achei inconveniente no uso de plugins é ser possível visualizar o resultado do plugin pelo editor, ou seja, no meu caso, não era possível a partitura antes de enviar as atualizações para o Gitbook e gerar a nova versão do livro.
 
 ### Conclusão
 
-Apesar dos problemas, o Gitbook se mostrou uma ferramenta muito poderosa e que atendeu muito bem aos meus requisitos. Como eu sou desenvolvedor de software, trabalhar com Markdown não é um grande problema para mim! As possibilidades que os 
+Apesar dos problemas, o Gitbook se mostrou uma ferramenta muito poderosa e que atendeu muito bem aos meus requisitos. Para um usuário não técnico, acredito que ele não seja muito adequado, mas para mim, que sou desenvolvedor de software, trabalhar com Markdown não é um problema. As possibilidades que os plugins trazem são enormes!
+
+Por fim, só me resta deixar o [link para o meu usuário no Gitbook](https://www.gitbook.com/@rcsilva83/) para você poder ver como minha singela apostila está ficando. Ainda pretendo reorganizá-la de uma forma melhor, melhorar alguns exemplos e testar alguns para escrever exercícios e incorporar música e vídeo.
