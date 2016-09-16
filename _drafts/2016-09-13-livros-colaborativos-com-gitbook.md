@@ -23,7 +23,7 @@ O Wikilivros (ou Wikibooks, no original) é um braço da famosa Wikipédia, mas 
 
 Um site um pouco mais adequado às minhas necessidades é o Widbook. É uma rede social para escrever e compartilhar livros digitais, oferecendo um ambiente colaborativo para leitura e escrita. No entanto, não existe nenhuma forma de disponibilizar o livro para download, o que era um requisito para mim. Aliás, pior do que isso: não existe nenhuma forma de você baixar o seu próprio livro! Ou seja, escreveu no Widbook, fica para sempre lá.
 
-O Widbook possui alguns recursos interessantes, como recebimento de doações, mas para mim não faziam muito sentido.
+O Widbook parece ter um uso bastante amigável e possui alguns recursos interessantes (como recebimento de doações), mas para mim não faziam tanto sentido.
 
 #### [Gitbook](https://www.gitbook.com/)
 
