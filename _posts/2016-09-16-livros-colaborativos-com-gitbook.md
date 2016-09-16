@@ -16,6 +16,8 @@ tags:
 
 Recentemente eu tive a necessidade de escrever uma apostila sobre teoria de ritmo. À princípio, apenas criei um documento texto no meu computador e fui escrevendo aos poucos. Mas, num determinado momento, pensei que este material teria mais utilidade disponível na internet (sob uma licensa livre) do que esquecido no meu HD. Então pesquisei alguns sites candidatos para eu publicar minha apostila online e selecionei alguns candidatos.
 
+<!-- more -->
+
 #### [Wikilivros](https://pt.wikibooks.org/)
 
 O Wikilivros (ou Wikibooks, no original) é um braço da famosa Wikipédia, mas com o conteúdo organizado em formato de livros. Já existe um [livro de teoria musical](https://pt.wikibooks.org/wiki/Teoria_musical) incompleto (e aparentemente abandonado) e poderia tentar terminá-lo. No entanto, meu objetivo era bem mais simples do que criar um livro e já tinha um conteúdo já escrito numa estrutura totalmente diferente.
