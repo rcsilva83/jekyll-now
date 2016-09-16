@@ -33,6 +33,8 @@ Também não existe o problema do livro ficar preso dentro da plataforma. O Gitb
 
 ### Gitbook na prática
 
+![gitbook.png](/images/gitbook.png)
+
 Comecei importando o documento texto que já tinha escrito antes e precisei de um tempo formatar o conteúdo para o Gitbook. Para editar, é possível utilizar o próprio site, mas ele oferece um aplicativo desktop que possui mais funções.
 
 Uma das funcionalidade que achei mais interessantes é o uso de plugins e ele possui um [repositório](https://plugins.gitbook.com/) repleto deles! No meu caso, eu precisava adicionar partituras musicais na minha apostila, das quais poderia utilizar com imagens, mas seria um pouco trabalhoso. Então preferi [utilizar um plugin](https://plugins.gitbook.com/plugin/abc2svg) para gerar as partituras para mim.
