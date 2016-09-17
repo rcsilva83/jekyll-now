@@ -12,7 +12,7 @@ tags:
   - widbook
   - wikibooks
 ---
-Recentemente eu tive a necessidade de escrever uma apostila sobre teoria de ritmo. À princípio, apenas criei um documento texto no meu computador e fui escrevendo aos poucos. Mas, num determinado momento, pensei que este material teria mais utilidade disponível na internet (sob uma licensa livre) do que esquecido no meu HD. Então pesquisei alguns sites candidatos para eu publicar minha apostila online e selecionei alguns candidatos.
+Recentemente eu tive a necessidade de escrever uma apostila sobre teoria de ritmo. À princípio, apenas criei um documento texto no meu computador e fui escrevendo aos poucos. Mas, num determinado momento, pensei que este material teria mais utilidade disponível na internet (sob uma licensa livre) do que esquecido no meu HD. Então pesquisei alguns sites para eu publicar minha apostila online e selecionei alguns candidatos.
 
 <!-- more -->
 
