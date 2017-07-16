@@ -24,3 +24,11 @@ Para quem é músico autoral, é extremamente importante que sua música esteja 
 Neste artigo vou mostrar que é simples e pode ser gratuito distribuir sua músicas neste importante canal, que tornará mais fácil suas composições serem encontradas e ainda te render algum lucro!
 
 <!-- more -->
+
+#### Distribuição de música: visão geral
+
+
+#### Comparando os distribuidores gratuitos
+
+
+#### Conclusão
