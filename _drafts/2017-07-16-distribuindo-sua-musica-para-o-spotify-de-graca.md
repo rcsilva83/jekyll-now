@@ -35,24 +35,27 @@ No entanto, muitas vezes para o artista que está começando não sabe qual o se
 
 Em minha pesquisa, encontrei 3 distribuidores: OneRPM, Freshtunes e Routenote. Inicialmente achei que o JTV Digital também fosse gratuito, pois seu site não expõe qualquer informação sobre taxas iniciais, mas elas existem.
 
-No quadro abaixo, é possível comparar a forma de cobrança de cada uma e os serviços que oferecem.
+No quadro abaixo, é possível comparar a forma de cobrança de cada uma e os serviços que oferecem. Os pontos negativos estão estacados e os serviços estão apresentados mais ou menos numa ordem de popularidade, para facilitar a comparação. Os serviços com "EUA" entre parênteses são muitos importantes caso sua música tenha algum potencial no mercado americado.
 
 |  | OneRPM Free | Freshtunes | Routenote |
 | :--- | :---: | :---: | :---: |
-| Interface em português | Sim | Sim | Não |
-| Percentual da receita | 85% | 100% | 85% |
-| Pagamento mínimo | 0 | Múltiplos de $25 | $50 |
+| Interface em português | Sim | Sim | **Não** |
+| Percentual da receita | **85%** | 100% | **85%** |
+| Pagamento mínimo | 0 | Múltiplos de $25 | **$50** |
 | Forma de pagamento | PayPal | Transferência bancária, WebMoney, Payoneer, ePayments | PayPal |
 | **Serviços mais populares:** |  |  |  |
-| Spotify | Sim | Sim | Sim |
-| iTunes/Apple Music | Não | Sim | Sim |
-| Deezer | Sim | Sim | Sim |
-| Google Play Music | Sim | Sim | Sim |
-| Soundcloud | Sim | Não | Sim |
 | YouTube \(sincronização\) | Sim | Sim | Sim |
-| Pandora \(EUA\) | Sim | Não | Sim |
-| Amazon \(EUA\) | Não | Sim | Sim |
-| Outros | Napster, Groove, Guvera, Audible Magic, Shazam, Gracenote | Claro Música, Shazam, Yadex Music, Zvook, Saavn, Akazoo | Tidal, Napster, Claro Música, Groove, Omnifone, eMusic, WiMp, Shazam, Mix Radio, Juke mymusic, Angahami, Gracenote, Kanjian |
+| Spotify | Sim | Sim | Sim |
+| iTunes/Apple Music | **Não** | Sim | Sim |
+| Deezer/Tim Music | Sim | Sim | Sim |
+| Soundcloud | Sim | **Não** | Sim |
+| Google Play Music | Sim | Sim | Sim |
+| Napster/Vivo Musica | Sim | **Não** | Sim |
+| Claro Música | **Não** | Sim | Sim |
+| Tidal | **Não** | **Não** | Sim |
+| Pandora \(EUA\) | Sim | **Não** | Sim |
+| Amazon \(EUA\) | **Não** | Sim | Sim |
+| Outros | Groove, Guvera, Audible Magic, Shazam, Gracenote | Shazam, Yadex Music, Zvook, Saavn, Akazoo | Groove, Omnifone, eMusic, WiMp, Shazam, Mix Radio, Juke mymusic, Angahami, Gracenote, Kanjian |
 
 #### Conclusão
 
@@ -60,3 +63,4 @@ No quadro abaixo, é possível comparar a forma de cobrança de cada uma e os se
 
 #### Links interessantes
 
+http://g1.globo.com/musica/noticia/streaming-de-musica-cresce-52-no-brasil-em-2016-e-ja-rende-o-triplo-de-venda-de-discos.ghtml
