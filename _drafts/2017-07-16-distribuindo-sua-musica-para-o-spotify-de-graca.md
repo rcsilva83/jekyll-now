@@ -29,20 +29,19 @@ Neste artigo vou mostrar que é simples (e pode ser gratuito) distribuir sua mú
 
 Se você é um artista independente, você deverá utilizar um distribuidor como intermediário entre você e os diversos serviços de streaming existentes. Também existem inúmeros distribuidores, cada um praticando diferentes formas de cobrança e oferecendo diferentes serviços. O mais conhecido é o [CD Baby](https://pt.members.cdbaby.com/), que possui excelentes opções de serviço (até mesmo venda de CDs físicos) e cobra uma taxa por cada álbum ou single cadastrado além de um pequeno percentual das vendas.
 
-No entanto, muitas vezes para o artista que está começando não sabe qual o será o retorno financeiro do streaming e uma taxa inicial pode ser uma barreira de entrada. Esse era o caso de alguns amigos meus, então resolvi pesquisar opções de distribuidores que não fizessem este tipo de cobrança.
+No entanto, muitas vezes para o artista que está começando não sabe qual o será o retorno financeiro e uma taxa inicial pode ser uma barreira de entrada. Um amigo meu havia me falado do [OneRPM](https://www.onerpm.com/), que oferece serviços mais limitados, mas não cobra nenhuma taxa inicial e fica com um percentual um pouco maior das vendas. O grande problema desse distribuidor é que, na opção gratuita, ele não ditribui para uma loja chave que é o iTunes/Apple Music. Então resolvi pesquisar opções de distribuidores gratuitos que pudessem oferecer serviços mais abrangentes.
 
 #### Comparando os distribuidores gratuitos
 
-Em minha pesquisa, encontrei 3 distribuidores gratuitos principais: [OneRPM](https://www.onerpm.com/), [Freshtunes](https://freshtunes.com/) e [Routenote](https://routenote.com/).
+Em minha pesquisa, encontrei outras duas boas opções de distribuidores gratuitos: [Freshtunes](https://freshtunes.com/) e [Routenote](https://routenote.com/).
 
 No quadro abaixo, é possível comparar a forma de cobrança de cada uma e os serviços que oferecem. Os pontos negativos estão estacados e os serviços estão apresentados numa ordem aproximada de popularidade, para facilitar a comparação. Aqueles marcados com "EUA" são muitos importantes caso sua música tenha algum potencial no mercado americado.
 
-|  | OneRPM Free | Freshtunes | Routenote |
+|  | OneRPM | Freshtunes | Routenote |
 | :--- | :---: | :---: | :---: |
 | Interface em português | Sim | Sim | **Não** |
 | Percentual da receita | **85%** | 100% | **85%** |
 | Pagamento mínimo | 0 | Múltiplos de $25 | **$50** |
-| Forma de pagamento | PayPal | Transferência bancária, WebMoney, Payoneer, ePayments | PayPal |
 | **Serviços mais populares:** |  |  |  |
 | Spotify | Sim | Sim | Sim |
 | iTunes/Apple Music | **Não** | Sim | Sim |
@@ -61,9 +60,17 @@ No quadro abaixo, é possível comparar a forma de cobrança de cada uma e os se
 
 #### Conclusão
 
+Então qual é o melhor distribuidor gratuito? Como em todo bom comparativo a resposta é: **depende**.
 
+- Se você não tiver problemas com inglês, eu recomendaria o **Routenote**, principalmente se sua música tiver potencial de ser escutada nos EUA.   
+- Se sua música não tem potencial para ser escutada nos EUA e você estiver procurando mais divulgação do que retorno financeiro, eu também ficaria com o **Routenote**, pois é o que distribui para mais lojas.
+- Se você tiver dificuldades com inglês e/ou gostaria de ter o maior retorno financeiro possível, eu indicaria o **Freshtunes**.
+- Se você se encaixa no perfil anterior e gostaria que sua música fosse distribuída para alguma loja que o Freshtunes não distribui, você pode **complementar** com o OneRPM (caso tenha dificuldades com inglês) ou com o Routenote. Você pode usar quantos distribuidores quiser para sua música desde que você só utilize um deles para cada loja.
 
-#### Links interessantes
+#### Divulgue!
 
-- Blog Somos Música ([http://somosmusica.com.br/](http://somosmusica.com.br/))
-- Palco Digital ([http://www.opalcodigital.com.br/](http://www.opalcodigital.com.br/))
+Mas tenha em mente que não é só porque você distribuiu sua música para as principais lojas da internet que sua música vai ser descoberta por todos! Você tem que fazê-la chegar aos seus potenciais ouvintes! Para saber como fazer isso, deixo aí abaixo alguns links de sites que publicam conteúdos muito interessantes!
+
+- Blog Somos Música \([http://somosmusica.com.br/](http://somosmusica.com.br/)\)
+- Palco Digital \([http://www.opalcodigital.com.br/](http://www.opalcodigital.com.br/)\)
+- Blog Routenote \[inglês\] \([http://routenote.com/blog/](http://routenote.com/blog/)\)
