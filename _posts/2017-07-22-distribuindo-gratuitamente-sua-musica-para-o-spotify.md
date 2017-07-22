@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Distribuindo gratuitamente sua música para o Spotify
 author: Rodrigo Carvalho
 layout: post
