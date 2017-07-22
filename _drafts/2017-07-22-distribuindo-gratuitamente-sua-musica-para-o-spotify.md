@@ -1,6 +1,6 @@
 ---
 published: false
-title: Distriuindo sua música para o Spotify gratuitamente
+title: Distribuindo gratuitamente sua música para o Spotify
 author: Rodrigo Carvalho
 layout: post
 comments: true
@@ -15,7 +15,7 @@ tags:
   - onerpm
   - freshtunes
   - routenote
-date: '2017-07-22 12:50:00 -0300'
+date: '2017-07-22 13:00:00 -0300'
 ---
 Atualmente uma das formas mais práticas de escutar música é através de serviços de streaming, como Spotify, Deezer, Apple Music, Google Play Music etc. Para todos que são viciados em música (como eu), sempre recomendo estes serviços, pois temos acesso a um acervo de músicas praticamente ilimitado e disponível em qualquer lugar!
 
