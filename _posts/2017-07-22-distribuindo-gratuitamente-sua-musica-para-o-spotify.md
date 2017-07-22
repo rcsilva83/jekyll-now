@@ -69,7 +69,7 @@ Então qual é o melhor distribuidor gratuito? Como em todo bom comparativo a re
 
 #### Divulgue!
 
-Mas tenha em mente que não é só porque você distribuiu sua música para as principais lojas da internet que sua música vai ser descoberta por todos. Você tem que fazê-la chegar aos seus potenciais ouvintes! Para saber como fazer isso, deixo aí abaixo alguns links de sites que publicam conteúdos muito interessantes!
+Mas tenha em mente que não é só porque você distribuiu sua música para as principais lojas da internet que sua música vai ser descoberta por todos. Você tem que fazê-la chegar aos seus potenciais ouvintes! Para saber como fazer isso, deixo aí abaixo alguns links de sites que publicam conteúdos muito interessantes:
 
 - Blog Somos Música \([http://somosmusica.com.br/](http://somosmusica.com.br/)\)
 - Palco Digital \([http://www.opalcodigital.com.br/](http://www.opalcodigital.com.br/)\)
