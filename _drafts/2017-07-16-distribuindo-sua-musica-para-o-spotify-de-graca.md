@@ -15,7 +15,7 @@ tags:
   - onerpm
   - freshtunes
   - routenote
-date: '2017-07-16 18:05:00 -0300'
+date: '2017-07-22 12:50:00 -0300'
 ---
 Atualmente uma das formas mais práticas de escutar música é através de serviços de streaming, como Spotify, Deezer, Apple Music, Google Play Music etc. Para todos que são viciados em música (como eu), sempre recomendo estes serviços, pois temos acesso a um acervo de músicas praticamente ilimitado e disponível em qualquer lugar!
 
