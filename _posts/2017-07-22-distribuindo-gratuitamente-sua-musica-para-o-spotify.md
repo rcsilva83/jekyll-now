@@ -38,8 +38,8 @@ Em minha pesquisa, encontrei outras duas boas opções de distribuidores gratuit
 |  | OneRPM | Freshtunes | Routenote |
 | :--- | :---: | :---: | :---: |
 | Interface em português | Sim | Sim | **Não** |
-| Percentual da receita | **85%** | 100% | **85%** |
-| Pagamento mínimo \(\*\) | 0 | Múltiplos de $25 | **$50** |
+| Comissão das vendas | **15%** | 0% | **15%** |
+| Pagamento mínimo \(\*\) | $0 | Múltiplos de $25 | **$50** |
 | **Serviços mais populares:** |  |  |  |
 | Spotify | Sim | Sim | Sim |
 | iTunes/Apple Music | **Não** | Sim | Sim |
@@ -65,9 +65,9 @@ Então qual é o melhor distribuidor gratuito? Como em todo bom comparativo a re
 - Se você não tiver problemas com inglês, eu recomendaria o **Routenote**, principalmente se sua música tiver potencial de ser escutada nos EUA.   
 - Se sua música não tem potencial para ser escutada nos EUA e você estiver procurando mais divulgação do que retorno financeiro, eu também ficaria com o **Routenote**, pois é o que distribui para mais lojas.
 - Se você tiver dificuldades com inglês e/ou gostaria de ter o maior retorno financeiro possível, eu indicaria o **Freshtunes**, que te paga 100% dos royalties e deixa você sacar um valor menor do que o Routenote.
-- Se você se encaixa no perfil anterior e gostaria que sua música fosse distribuída para alguma loja que o Freshtunes não distribui, você pode **complementar** com o OneRPM (caso tenha dificuldades com inglês) ou com o Routenote. Você pode usar quantos distribuidores quiser para sua música desde que só utilize um deles para cada loja.
+- Se você se encaixa no perfil anterior e gostaria que sua música fosse distribuída para alguma loja que o Freshtunes não distribui, você pode **combinar** com o OneRPM (caso tenha dificuldades com inglês) ou com o Routenote. Você pode usar quantos distribuidores quiser para sua música desde que só utilize um deles para cada loja.
 
-#### Divulgue!
+#### Depois de distribuir, divulgue!
 
 Mas tenha em mente que não é só porque você distribuiu sua música para as principais lojas da internet que sua música vai ser descoberta por todos. Você tem que fazê-la chegar aos seus potenciais ouvintes! Para saber como fazer isso, deixo aí abaixo alguns links de sites que publicam conteúdos muito interessantes:
 
