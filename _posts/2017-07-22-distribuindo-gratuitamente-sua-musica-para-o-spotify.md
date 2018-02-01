@@ -17,6 +17,8 @@ tags:
   - routenote
 date: '2017-07-22 13:00:00 -0300'
 ---
+**Atualização 01/02/2018**: Atualmente o OneRPM distribui para o iTunes/Apple Music gratuitamente e se tornou minha primeira opção dentre os distribuidores gratuitos. Se quiser um comparativo muito mais completo que o meu, recomento [este](http://www.aristake.com/post/cd-baby-tunecore-ditto-mondotunes-zimbalam-or) (em inglês).
+
 Atualmente uma das formas mais práticas de escutar música é através de serviços de streaming, como Spotify, Deezer, Apple Music, Google Play Music etc. Para todos que são viciados em música (como eu), sempre recomendo estes serviços, pois temos acesso a um acervo de músicas praticamente ilimitado e disponível em qualquer lugar!
 
 Para quem é músico autoral, é extremamente importante que sua música esteja presente lá, pois é um mercado que já [rende muito mais que o CD físico](http://g1.globo.com/musica/noticia/streaming-de-musica-cresce-52-no-brasil-em-2016-e-ja-rende-o-triplo-de-venda-de-discos.ghtml) e só tende a crescer! No entanto, vejo que a maioria dos músicos não sabe como fazer ou simplesmente acha que é impossível fazer isso sem uma gravadora.
