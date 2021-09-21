@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rodrigocarvalho.blog.br/sitemap.xml 
+Sitemap: https://rodsilva.com/sitemap.xml 
