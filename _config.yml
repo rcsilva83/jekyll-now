@@ -114,6 +114,7 @@ prose:
       - name: "comments"
         field:
           element: "checkbox"
+          label: "Comentários"
           value: "true"
       - name: "categories"
         field:
