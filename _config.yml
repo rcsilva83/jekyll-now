@@ -111,16 +111,20 @@ prose:
         field:
           element: "hidden"
           value: "Rodrigo Carvalho"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título"
       - name: "comments"
         field:
           element: "checkbox"
           label: "Comentários"
-          value: "true"
+          value: true
       - name: "categories"
         field:
           element: "multiselect"
-          label: "Add Categories"
-          placeholder: "Choose Categories"
+          label: "Categorias"
+          placeholder: "Escolha as categorias"
           alterable: true
           options:
             - name: "Música"
@@ -136,7 +140,7 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
+          label: "Tags"
+          placeholder: "Escolha as tags"
           alterable: true
           options:
