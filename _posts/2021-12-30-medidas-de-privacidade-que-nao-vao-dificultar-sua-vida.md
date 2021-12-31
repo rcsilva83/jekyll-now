@@ -9,7 +9,7 @@ tags:
   - privacidade
   - online
 ---
-Há alguns anos um assunto começou a chamar muito a minha atenção: **privacidade online**. Cada vez mais comecei a ficar incomodado com o fato de grandes empresas de tecnologia, como Google e Facebook, saberem tanto da minha vida e vi que não era o único. Cada vez mais apareciam novos sites dando dicas de como proteger a sua privacidade online, como o [PrivacyTools](https://www.privacytools.io/), [Spread Privacy](https://spreadprivacy.com/) ou [ThinkPrivacy](https://thinkprivacy.ch/), e fui aprendendo com eles.
+Há alguns anos um assunto começou a chamar muito a minha atenção: **privacidade online**. Fui ficando cada vez mais incomodado com o fato de grandes empresas de tecnologia, como Google e Facebook, saberem tanto da minha vida e vi que não era o único. Havia nascido um movimento "pró-privacidade online" que deu origem a diversos sites com dicas de como proteger a sua privacidade online e listas de ferramentas alternativas às opções mais comuns. Alguns dos principais são [Spread Privacy](https://spreadprivacy.com/), [ThinkPrivacy](https://thinkprivacy.ch/) e [PrivacyTools](https://www.privacytools.io/).
 
 Realmente não é um caminho tão fácil a ser trilhado e muito questionam as razões para este tipo de preocupação, sendo o "não tenho nada para esconder" um dos argumentos mais usados. No entanto, se você assitiu ao documentário "[O Dilema das Redes](https://www.netflix.com/br/title/81254224)" da Netflix, entendeu os riscos que este "Big Brother Massivo Online" pode acarretar (e, se não assistiu, assista).
 
@@ -27,4 +27,6 @@ Baseado no vídeo acima, seguem minhas recomendações:
 1. **Contas online**: recomendo o aplicativo [Jumbo](https://www.withjumbo.com/) para te ajudar na desativação de opções não privativas das suas contas online;
 1. **Sistema operacional** (opcional): OK, este aqui não é uma transição tão fácil quanto as anteriores (por isso coloquei como opcional), mas eu recomendo o Linux e você pode se surpreender o quanto ele é fácil de usar e compatível com seu hardware (um grande problema no passado). O Linux, diferente do Windows, possui várias "versões" (chamadas distribuições) e, para iniciantes no sistema, minha recomendação ainda vai para o [Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview).
 
-Se você busca um pouco mais de privacidade online, estes são os primeiros passos a serem dados e não vão atrapalhar em quase nada no que faz atualmente. Aguarde o próximo artigo desta série sobre privacidade online, caso queria ir além. Até lá!
+Se você busca um pouco mais de privacidade online, estes são os primeiros passos a serem dados e não vão atrapalhar em quase nada no que faz atualmente e, caso queira que eu me aprofunde em algum assunto citado neste artigo, utilize a sessão de comentários.
+
+Te vejo no próximo artigo desta série sobre privacidade online!
