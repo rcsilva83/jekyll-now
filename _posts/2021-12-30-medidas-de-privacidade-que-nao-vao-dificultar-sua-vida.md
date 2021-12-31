@@ -2,7 +2,7 @@
 author: Rodrigo Carvalho
 layout: blog
 comments: true
-published: false
+published: true
 categories:
   - Privacidade
 tags:
