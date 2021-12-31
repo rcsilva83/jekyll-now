@@ -1,6 +1,6 @@
 ---
 author: Rodrigo Carvalho
-layout: blog
+layout: post
 comments: true
 published: true
 categories:
