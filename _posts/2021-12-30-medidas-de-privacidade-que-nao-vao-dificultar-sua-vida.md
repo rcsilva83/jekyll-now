@@ -8,6 +8,7 @@ categories:
 tags:
   - privacidade
   - online
+title: Medidas de privacidade que não vão dificultar sua vida
 ---
 Há alguns anos um assunto começou a chamar muito a minha atenção: **privacidade online**. Fui ficando cada vez mais incomodado com o fato de grandes empresas de tecnologia, como Google e Facebook, saberem tanto da minha vida e vi que não era o único. Havia nascido um movimento "pró-privacidade online" que deu origem a diversos sites com dicas de como proteger a sua privacidade online e listas de ferramentas alternativas às opções mais comuns. Alguns dos principais são [Spread Privacy](https://spreadprivacy.com/), [ThinkPrivacy](https://thinkprivacy.ch/) e [PrivacyTools](https://www.privacytools.io/).
 
