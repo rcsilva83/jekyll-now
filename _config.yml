@@ -106,7 +106,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
       - name: "author"
         field:
           element: "hidden"
