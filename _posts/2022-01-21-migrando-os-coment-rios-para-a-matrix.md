@@ -2,7 +2,7 @@
 author: Rodrigo Carvalho
 layout: post
 comments: true
-published: false
+published: true
 title: Migrando os comentários para a Matrix
 categories:
   - Tecnologia
@@ -12,8 +12,7 @@ tags:
   - cactus-comments
   - matrix
 ---
-![Disqus para Cactus.png]({{site.baseurl}}/images/Disqus para Cactus.png)
-<sup><sub>Crédito: ![matrix](https://live.staticflickr.com/3070/2564208746_df3c98169e_b.jpg)["matrix"](https://www.flickr.com/photos/21936312@N08/2564208746) by [Gamaliel E. M.](https://www.flickr.com/photos/21936312@N08) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse&atype=html)[![](https://search.creativecommons.org/static/img/cc_icon.svg?image_id=ef2a8579-e8fb-4f90-81e8-b2a408fbea72)![](https://search.creativecommons.org/static/img/cc-by_icon.svg)![](https://search.creativecommons.org/static/img/cc-nc_icon.svg)](https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse&atype=html)</sub></sup>
+![Disqus para Cactus.png](/images/Disqus para Cactus.png)
 
 Na [última postagem](medidas-de-privacidade-que-nao-vao-dificultar-sua-vida) do blog, comecei uma série sobre privacidade online. No entanto, após publicar o texto, percebi algo bastante incoerente com aquele tema: o blog usava o [Disqus](https://disqus.com/) como sistema de comentários! Enquanto este sistema é muito popular e fácil de se usar, ele rastreia seus usuários. Sendo assim, precisava encontrar alguma alternativa a ele.
 
@@ -32,3 +31,4 @@ A Matrix é uma rede aberta para comunicação descentralizada, totalmente basea
 Sendo assim, a escolha do Cactus me pareceu a mais interessante e sua configuração foi muito simples e rápida. Você já pode testar agora a nova sessão de comentários e, desta forma, se sentir como [Neo](https://duckduckgo.com/?q=neo+matrix&atb=v211-1&iax=images&ia=images) navegando pela Matrix ;)
 
 
+<sup><sub>Crédito da imagem: "[matrix](https://www.flickr.com/photos/21936312@N08/2564208746)" by [Gamaliel E. M.](https://www.flickr.com/photos/21936312@N08) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse&atype=html)[![](https://search.creativecommons.org/static/img/cc_icon.svg?image_id=ef2a8579-e8fb-4f90-81e8-b2a408fbea72)![](https://search.creativecommons.org/static/img/cc-by_icon.svg)![](https://search.creativecommons.org/static/img/cc-nc_icon.svg)](https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse&atype=html)</sub></sup>
