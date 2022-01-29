@@ -6,3 +6,9 @@
 .social-links a {
   margin-right: 10px;
 }
+
+@media (max-width: 48em) {
+  .sidebar img {
+    margin: auto;
+  }
+}
