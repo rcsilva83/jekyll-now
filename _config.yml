@@ -19,30 +19,8 @@ avatar: https://s.gravatar.com/avatar/91de2067b259f05dcefa3b29ee10a5dd?s=140
 
 paginate:         5
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: rcsilva83@gmail.com
-  facebook: rcsilva83
-  flickr:
-  github: rcsilva83
-  instagram:
-  linkedin:
-  pinterest:
-  rss: http://feeds.feedburner.com/RodrigoCarvalho # just type anything here for a working RSS icon
-  twitter: rcsilva83
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: RodrigoCarvalhoSilva # channel/<your_long_string> or user/<user-name>
-  googleplus: RodrigoCarvalhoSilva # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-  shortname: rodsilva.com
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+cactus:
+  siteName: rodsilva.com
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
