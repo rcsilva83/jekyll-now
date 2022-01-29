@@ -2,6 +2,7 @@
 layout: page
 title: Palestras
 permalink: /palestras/
+published: false
 dsq_thread_id:
   - 732425706
 ---
