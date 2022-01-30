@@ -4,7 +4,7 @@ layout: default
 
 <div class="post h-entry">
   <h1 class="post-title p-name"><a class="u-url" href="{{ page.url }}">{{ page.title }}</a></h1>
-  <span class="post-date dt-published">{{ page.date | date_to_string }}</span>
+  <span class="post-date dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }} - <span class="p-author">{{ site.name }}</span></span>
   <div class="e-content">
     {{ content }}
   </div>
