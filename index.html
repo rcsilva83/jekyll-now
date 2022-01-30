@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date dt-published">{{ post.date | date_to_string }}</span>
+    <span class="post-date dt-published" datetime="{{ post.date }}">{{ post.date | date_to_string }} - <a class="p-author h-card" href="{{ site.url }}">{{ site.name }}</a></span>
 
     {{ post.excerpt }}
   </div>
