@@ -101,9 +101,13 @@ GEM
     html-pipeline (2.14.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    htmlbeautifier (1.4.1)
     http_parser.rb (0.6.0)
+    httparty (0.15.7)
+      multi_xml (>= 0.5.2)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
+    ipaddr (1.2.3)
     jekyll (3.9.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -206,14 +210,24 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-webmention_io (3.3.6)
+      htmlbeautifier (~> 1.1)
+      jekyll (>= 3.2.0, < 5.0)
+      json (~> 2.0)
+      openssl (~> 2.0)
+      string_inflection (~> 0.1)
+      uglifier (~> 4.1)
+      webmention (~> 0.1.6)
     jemoji (0.12.0)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.6.1)
     kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    link_header (0.0.8)
     liquid (4.0.3)
     listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -224,12 +238,15 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
+    multi_xml (0.6.0)
     multipart-post (2.1.1)
     nokogiri (1.12.4-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+    openssl (2.2.1)
+      ipaddr
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -254,6 +271,7 @@ GEM
       faraday (> 0.8, < 2.0)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
+    string_inflection (0.1.2)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -261,10 +279,17 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    uglifier (4.2.0)
+      execjs (>= 0.3.0, < 3)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webmention (0.1.6)
+      httparty (~> 0.15.5)
+      json
+      link_header (~> 0.0.8)
+      nokogiri
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -272,6 +297,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 215)
+  jekyll-webmention_io
 
 BUNDLED WITH
-   2.2.22
+   2.2.32
