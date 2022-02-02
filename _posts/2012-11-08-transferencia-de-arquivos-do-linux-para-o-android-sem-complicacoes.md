@@ -18,9 +18,9 @@ Desde que comprei meu celular novo, com Android 4, passei a ter muitos problemas
 Cansado desta situação, resolvi encontrar uma solução e acabei encontrando algo muito melhor: o <a title="AirDroid no Google Play" href="https://play.google.com/store/apps/details?id=com.sand.airdroid" target="_blank">AirDroid</a>. Ele é um aplicativo móvel que carrega uma aplicação web no próprio aparelho e que você pode acessar de um navegador do seu computador! Além de transferir arquivos dá para fazer muito mais com ele, como pode ver na tela abaixo.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-large wp-image-832" title="AirDroid" alt="Tela do AirDroid" src="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2012/11/AirDroid-1024x640.png" width="590" height="368" />
+  <img class="aligncenter size-large wp-image-832" title="AirDroid" alt="Tela do AirDroid" src="/wp-content/uploads/2012/11/AirDroid-1024x640.png" width="590" height="368" />
 </p>
 
-Resumindo: procurava uma solução para resolver meu problema de transferência de arquivos via cabo USB para o Android e acabei com uma solução muito mais completa. E, o melhor: sem precisar mais de cabos! Realmente o AirDroid virou o mais novo aplicativo Android essencial para mim <img src="http://www.rodrigocarvalho.blog.br/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Resumindo: procurava uma solução para resolver meu problema de transferência de arquivos via cabo USB para o Android e acabei com uma solução muito mais completa. E, o melhor: sem precisar mais de cabos! Realmente o AirDroid virou o mais novo aplicativo Android essencial para mim <img src="/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
 
 **Atualização: **O Ubuntu, a partir da versão 13.04, já vem com suporte ao protocolo MTP compatível com o Android nativamente.

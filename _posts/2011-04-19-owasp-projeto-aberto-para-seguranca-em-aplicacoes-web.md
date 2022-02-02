@@ -114,7 +114,7 @@ Que fique claro, no entanto, que o que eu apresentei foi apenas uma pequena part
 
  [1]: http://owasp.org/
  [2]: http://www.owasp.org/index.php/AppSec_Brasil_2010_(pt-br)
- [3]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2011/04/webgoat.png
- [4]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2011/04/webscarab.png
- [5]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2011/04/esapi.png
+ [3]: /wp-content/uploads/2011/04/webgoat.png
+ [4]: /wp-content/uploads/2011/04/webscarab.png
+ [5]: /wp-content/uploads/2011/04/esapi.png
  [6]: http://www.owasp.org/

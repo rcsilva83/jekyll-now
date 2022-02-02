@@ -28,7 +28,7 @@ dsq_thread_id:
 </ul>
 
 <p style="text-align: justify;">
-  <strong>04/07/2001</strong> &#8211; Show da Baiacu com Sono (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/Baiacu-com-Sono.jpg" target="_blank">foto</a> e <a href="http://www.youtube.com/watch?v=xNAy28H8sWc" target="_blank">vídeo</a> [<span style="color: #ff0000;">alerta de tosquidão</span>]), com ausência do guitarrista solo;
+  <strong>04/07/2001</strong> &#8211; Show da Baiacu com Sono (<a href="/wp-content/uploads/2010/05/Baiacu-com-Sono.jpg" target="_blank">foto</a> e <a href="http://www.youtube.com/watch?v=xNAy28H8sWc" target="_blank">vídeo</a> [<span style="color: #ff0000;">alerta de tosquidão</span>]), com ausência do guitarrista solo;
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +50,7 @@ dsq_thread_id:
 </p>
 
 <p style="text-align: justify;">
-  <strong>2002</strong> &#8211; Composições sob o nome Baiacu Com Sono (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/Baiacu-Com-Sono-Baiacu-Com-Sono.mp3" target="_blank">áudio</a> e  <a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/Baiacu-Com-Sono-Cidade-Confusa.mp3" target="_blank">áudio</a> [<span style="color: #ff0000;">alerta de tosquidão</span>]):
+  <strong>2002</strong> &#8211; Composições sob o nome Baiacu Com Sono (<a href="/wp-content/uploads/2010/05/Baiacu-Com-Sono-Baiacu-Com-Sono.mp3" target="_blank">áudio</a> e  <a href="/wp-content/uploads/2010/05/Baiacu-Com-Sono-Cidade-Confusa.mp3" target="_blank">áudio</a> [<span style="color: #ff0000;">alerta de tosquidão</span>]):
 </p>
 
 <ul style="text-align: justify;">
@@ -84,7 +84,7 @@ dsq_thread_id:
 </p>
 
 <p style="text-align: justify;">
-  <strong>01/08/2003</strong> <strong>a 30/11/2003</strong> &#8211; Oficina de bateria na UERJ com prof. Alex Vieira (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/BateriaUERJ_1.bmp" target="_blank">foto</a>);
+  <strong>01/08/2003</strong> <strong>a 30/11/2003</strong> &#8211; Oficina de bateria na UERJ com prof. Alex Vieira (<a href="/wp-content/uploads/2010/05/BateriaUERJ_1.bmp" target="_blank">foto</a>);
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +95,7 @@ dsq_thread_id:
 *   **Demais integrantes:** <a href="http://www.gustavojobim.com/" target="_blank">Gustavo Jobim</a> (teclado), Zé Felipe (baixo), Gabriel (guitarra)
 
 <p style="text-align: justify;">
-  <strong>??/??/2005</strong> &#8211; Entrada no Kavera (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/PB080013-edit.jpg" target="_blank">foto</a>, <a href="http://www.youtube.com/watch?v=yBuPcE4dizc" target="_blank">vídeo</a> e <a href="http://video.google.com/videoplay?docid=-2798439304923505794#" target="_blank">vídeo</a>):
+  <strong>??/??/2005</strong> &#8211; Entrada no Kavera (<a href="/wp-content/uploads/2010/05/PB080013-edit.jpg" target="_blank">foto</a>, <a href="http://www.youtube.com/watch?v=yBuPcE4dizc" target="_blank">vídeo</a> e <a href="http://video.google.com/videoplay?docid=-2798439304923505794#" target="_blank">vídeo</a>):
 </p>
 
 <ul style="text-align: justify;">
@@ -123,7 +123,7 @@ dsq_thread_id:
 </ul>
 
 <p style="text-align: justify;">
-  <strong>16/06/2007 a 17/12/2007</strong> &#8211; Gravação e mixagem Degrada (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/img193.jpg" target="_blank">foto</a>, <a href="http://www.myspace.com/degrada" target="_blank">músicas</a> e <a href="http://www.youtube.com/watch?v=xONgfhGQbo4" target="_blank">clipe</a>);
+  <strong>16/06/2007 a 17/12/2007</strong> &#8211; Gravação e mixagem Degrada (<a href="/wp-content/uploads/2010/05/img193.jpg" target="_blank">foto</a>, <a href="http://www.myspace.com/degrada" target="_blank">músicas</a> e <a href="http://www.youtube.com/watch?v=xONgfhGQbo4" target="_blank">clipe</a>);
 </p>
 
 <p style="text-align: justify;">
@@ -144,7 +144,7 @@ dsq_thread_id:
 </ul>
 
 <p style="text-align: justify;">
-  <strong>21/07/2007</strong> &#8211; Show Degrada no Lago Javary em Miguel Pereira (<a href="http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/05/P7290066.jpg" target="_blank">foto</a>, <a href="http://www.youtube.com/watch?v=N3dcHzyaDEs" target="_blank">vídeo</a> e <a href="http://www.youtube.com/watch?v=pg42S6gW_Nw" target="_blank">vídeo</a>);
+  <strong>21/07/2007</strong> &#8211; Show Degrada no Lago Javary em Miguel Pereira (<a href="/wp-content/uploads/2010/05/P7290066.jpg" target="_blank">foto</a>, <a href="http://www.youtube.com/watch?v=N3dcHzyaDEs" target="_blank">vídeo</a> e <a href="http://www.youtube.com/watch?v=pg42S6gW_Nw" target="_blank">vídeo</a>);
 </p>
 
 <p style="text-align: justify;">

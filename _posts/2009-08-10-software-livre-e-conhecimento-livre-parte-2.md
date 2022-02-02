@@ -98,7 +98,7 @@ Do ponto de vista **estratégico** (empresas e governos):
 
 Espero que tenham gostado e aguardo os comentários! Além disso, se morar no Rio de Janeiro, não deixe de ir ao <a href="http://gnugraf.org" target="_blank">GNUGRAF</a>. É de graça e teremos diversas palestras e mini-cursos como profissionais de qualidade das áreas multimídia. Bem, eu vou ajudar no evento, mas não vou perder as atividades relacionadas à produção musical :). Grande abraço!
 
- [1]: http://www.rodrigocarvalho.blog.br/software-livre-e-conhecimento-livre-parte-1/
+ [1]: /software-livre-e-conhecimento-livre-parte-1/
  [2]: http://pt.wikipedia.org/wiki/Padr%C3%A3o_aberto
  [3]: http://pt.wikipedia.org/wiki/ODF
  [4]: http://pt.wikipedia.org/wiki/Html

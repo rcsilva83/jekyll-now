@@ -51,5 +51,5 @@ E sobre o Stallman, acho que ele está apenas cumprindo o papel dele de fundador
 *   [Diferença entre Google, Apple e Microsoft][1]
 *   [Software (livre) é Conhecimento (livre)][2]
 
- [1]: http://www.rodrigocarvalho.blog.br/diferenca-entre-google-apple-e-microsoft/
- [2]: http://www.rodrigocarvalho.blog.br/software-livre-e-conhecimento-livre-parte-1/
+ [1]: /diferenca-entre-google-apple-e-microsoft/
+ [2]: /software-livre-e-conhecimento-livre-parte-1/

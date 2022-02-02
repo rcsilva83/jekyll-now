@@ -69,4 +69,4 @@ Nosso programa exemplo foi bastante simples, mas imagine a quantidade de conheci
 
  [1]: http://www.inkscape.org/
  [2]: http://ardour.org/
- [3]: http://www.rodrigocarvalho.blog.br/software-livre-e-conhecimento-livre-parte-2/
+ [3]: /software-livre-e-conhecimento-livre-parte-2/

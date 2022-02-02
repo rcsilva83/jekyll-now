@@ -30,4 +30,4 @@ Resumo, o GnomeDo é muito útil e agiliza muito as tarefas do dia-a-dia. Gostei
 
 A [parte 2][1] já está escrita e já pode ser lida; fala sobre o AWN. Abraço!
 
- [1]: http://rcarvalho.wordpress.com/2008/05/06/testes-de-fim-de-semana-parte-2-awn/
+ [1]: /testes-de-fim-de-semana-parte-2-awn/

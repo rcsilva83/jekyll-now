@@ -46,8 +46,8 @@ Se você se interessou, aproveite a oportunidade para [se inscrever][7] na turma
 
 
   [1]: https://www.coursera.org/
-  [2]: http://rodrigocarvalho.blog.br/introduction-to-digital-sound-design-como-foi/
-  [3]: http://rodrigocarvalho.blog.br/curso-songwriting-como-foi/
+  [2]: /introduction-to-digital-sound-design-como-foi/
+  [3]: /curso-songwriting-como-foi/
   [4]: https://www.coursera.org/course/historyofrock1
   [5]: https://www.coursera.org/course/historyofrock2
   [6]: http://en.wikipedia.org/wiki/Disco_Demolition_Night

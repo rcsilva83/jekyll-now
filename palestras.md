@@ -33,6 +33,6 @@ Palestra que ministrei no evento Gnugraf 2010, no dia 23/08/2010.
 Licença: <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR" target="_blank">Creative Commons BY-SA</a>
 
 
- [1]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/10/Desmistificando-o-Git.odp "Apresentação da palestra Desmistificando o Git"
- [2]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2010/10/apresentacao-android.odp "Apresentação da palestra Android: Uma catedral de sucesso"
- [3]: http://www.rodrigocarvalho.blog.br/wp-content/uploads/2011/06/Integração-Contínua-com-Softwares-Livres.odp
+ [1]: /wp-content/uploads/2010/10/Desmistificando-o-Git.odp "Apresentação da palestra Desmistificando o Git"
+ [2]: /wp-content/uploads/2010/10/apresentacao-android.odp "Apresentação da palestra Android: Uma catedral de sucesso"
+ [3]: /wp-content/uploads/2011/06/Integração-Contínua-com-Softwares-Livres.odp
