@@ -19,7 +19,7 @@ Com um pouco de uso, percebe-se que se trata de um aplicativo bem flexível, pos
 Mas o ponto principal da aplicação é seu bonito visual, que chama bastante atenção. Ele suporta vários efeitos pré-configurados, possibilitando ainda composição de efeitos para cada tipo de evento de forma personalizada. Outro ponto positivo é seu suporte a temas, para deixá-lo ainda mais com a &#8220;cara&#8221; que se deseja.
 
 <p style="text-align:center;">
-  <a href="http://rcarvalho.files.wordpress.com/2008/05/awn.png"><img class="aligncenter size-medium wp-image-10" src="http://rcarvalho.files.wordpress.com/2008/05/awn.png?w=300" alt="AWN com diversos applets e mostrando, no final (antes do link de logoff), as aplicações abertas" width="300" height="187" /></a>
+  <a href="https://rcarvalho.files.wordpress.com/2008/05/awn.png"><img class="aligncenter size-medium wp-image-10" src="https://rcarvalho.files.wordpress.com/2008/05/awn.png?w=300" alt="AWN com diversos applets e mostrando, no final (antes do link de logoff), as aplicações abertas" width="300" height="187" /></a>
 </p>
 
 Apesar de tudo isso, não sei se conseguirei me acostumar com ele. O problema é que quando a barra se redimensiona, pela abertura ou fechamento de uma aplicação, temos que esperar a animação acabar para clicar em outra coisa, sob o risco de clicar em algo indesejado acidentalmente. Na minha opinião o efeito animado deveria ser mais rápido, ou melhor, isso deveria ser configurável (já fiz esta proposta aos desenvolvedores). Outro problema é a instabilidade de alguns applets. De qualquer forma, quem quiser chamar a atenção dos amigos e familiares para o Linux, irá adorar!
