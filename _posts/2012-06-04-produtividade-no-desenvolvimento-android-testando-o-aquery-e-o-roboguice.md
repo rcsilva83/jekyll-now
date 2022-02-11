@@ -18,9 +18,9 @@ tags:
 ---
 Como último estágio antes da retomada do desenvolvimento da nova versão do <a title="Repositório do aplicativo para Android da Revista Espírito Livre" href="https://github.com/espiritolivre/Espirito-Livre-Para-Android" target="_blank">aplicativo da Revista Espírito Livre</a>, resolvi testar dois frameworks que prometem mais produtividade e código mais limpo para suas aplicações Android. O objetivo dos testes é escolher um deles para utilizar na próxima versão do aplicativo.
 
-O primeiro será o <a title="Site do AQuery" href="http://code.google.com/p/android-query/" target="_blank">AQuery</a>, componente que provê uma API ao estilo do framework Javascript <a>JQuery</a>, tornando o código mais compacto e expressivo.
+O primeiro será o <a title="Site do AQuery" href="https://code.google.com/p/android-query/" target="_blank">AQuery</a>, componente que provê uma API ao estilo do framework Javascript <a>JQuery</a>, tornando o código mais compacto e expressivo.
 
-O segundo será o <a title="Site do RoboGuice" href="http://code.google.com/p/roboguice/" target="_blank">RoboGuice</a>, uma extensão do framework Java de <a title="Inversão de controle na Wikipédia" href="http://pt.wikipedia.org/wiki/Invers%C3%A3o_de_controle" target="_blank">IOC</a> <a title="Site do Google Guice" href="http://code.google.com/p/google-guice/" target="_blank">Google Guice</a> com funcionalidades específicas para o mundo Android.
+O segundo será o <a title="Site do RoboGuice" href="https://code.google.com/p/roboguice/" target="_blank">RoboGuice</a>, uma extensão do framework Java de <a title="Inversão de controle na Wikipédia" href="https://pt.wikipedia.org/wiki/Invers%C3%A3o_de_controle" target="_blank">IOC</a> <a title="Site do Google Guice" href="https://code.google.com/p/google-guice/" target="_blank">Google Guice</a> com funcionalidades específicas para o mundo Android.
 
 Para os testes, utilizarei a primeira versão do aplicativo da REL. Segue um trecho de código do aplicativo original para servir como comparativo:
 
@@ -35,7 +35,7 @@ Antes de tecer qualquer comentário, segue abaixo como ficou o código original 
 *Pontos positivos*
 
 *   Conforme prometido, o código ficou realmente mais compacto e expressivo. É possível fazer muitas configurações num mesmo objeto com apenas 1 linha de código sem perder a legibilidade.
-*   O uso de <a title="Interface fluente na Wikipédia (em inglês)" href="http://en.wikipedia.org/wiki/Fluent_interface" target="_blank">interface fluente</a> é muito positivo e grande responsável pelo código enxuto e limpo.
+*   O uso de <a title="Interface fluente na Wikipédia (em inglês)" href="https://en.wikipedia.org/wiki/Fluent_interface" target="_blank">interface fluente</a> é muito positivo e grande responsável pelo código enxuto e limpo.
 *   Pelo que vi na documentação, o tratamento de XML e Json parece bastante poderoso, apesar de não ter utilizado.
 
 *Pontos negativos*
@@ -64,7 +64,7 @@ Vamos partir agora para o teste do RoboGuice. Veja como o código original ficou
 *Pontos negativos*
 
 *   A documentação da versão atual (2.0) está muito pobre ainda. Documentação completa só para a versão 1.1.
-*   Algo que nem é muito relevante é a certa complexidade para conjugar seu uso com o <a title="Site do ActionBarSherlock" href="http://actionbarsherlock.com/" target="_blank">ActionBarSherlock</a>. O problema é que ambos exigem que suas Activity&#8217;s estendam suas próprias classes, mas Java não tem herança múltipla para poder herdar de ambas. Mas isto foi fácil de solucionar, pois já existe <a title="API para conjugar o RoboGuice com o AactionBarSherlock" href="https://github.com/rtyley/roboguice-sherlock" target="_blank">código pronto</a> para resolver o problema.
+*   Algo que nem é muito relevante é a certa complexidade para conjugar seu uso com o <a title="Site do ActionBarSherlock" href="https://actionbarsherlock.com/" target="_blank">ActionBarSherlock</a>. O problema é que ambos exigem que suas Activity&#8217;s estendam suas próprias classes, mas Java não tem herança múltipla para poder herdar de ambas. Mas isto foi fácil de solucionar, pois já existe <a title="API para conjugar o RoboGuice com o AactionBarSherlock" href="https://github.com/rtyley/roboguice-sherlock" target="_blank">código pronto</a> para resolver o problema.
 
 **Conclusão**
 

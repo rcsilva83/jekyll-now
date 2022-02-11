@@ -27,6 +27,6 @@ Apesar de tudo isso, não sei se conseguirei me acostumar com ele. O problema é
 Espero que tenha gostado dos artigos e peço por feedback, se possível, pois estes são os primeiros artigos que escrevo num blog. Eles foram escritos de forma um pouco corrida, mas espero ter mais tempo para os próximos. Abraço!
 
  [1]: /testes-de-fim-de-semana-parte-1-gnomedo/
- [2]: http://wiki.awn-project.org/
- [3]: http://www.dicas-l.com.br/dicas-l/20080506.php
- [4]: http://www.rememberthemilk.com/
+ [2]: https://wiki.awn-project.org/
+ [3]: https://www.dicas-l.com.br/dicas-l/20080506.php
+ [4]: https://www.rememberthemilk.com/

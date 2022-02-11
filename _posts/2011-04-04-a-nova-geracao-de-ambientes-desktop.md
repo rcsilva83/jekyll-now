@@ -16,11 +16,11 @@ tags:
   - ubuntu
   - unity
 ---
-Estamos começando o mês de abril de 2011, um mês em que dois novos <a title="Ambiente na Wikipedia" href="http://pt.wikipedia.org/wiki/Ambiente_de_desktop" target="_blank">ambientes desktop</a> para Linux serão apresentados para as massas: <a title="Site do Unity" href="http://unity.ubuntu.com/" target="_blank">Unity</a> e <a title="Site do Gnome3" href="http://gnome3.org/" target="_blank">Gnome3</a>. Ambos prometem modificar significativamente a forma como interagimos com o computador, cada um a sua maneira. Como preparativo para estas novas versões (das quais pretendo testar e publicar aqui minhas impressões), neste artigo vou dar uma visão geral e explicar um pouco do que esperar de cada um.
+Estamos começando o mês de abril de 2011, um mês em que dois novos <a title="Ambiente na Wikipedia" href="https://pt.wikipedia.org/wiki/Ambiente_de_desktop" target="_blank">ambientes desktop</a> para Linux serão apresentados para as massas: <a title="Site do Unity" href="https://unity.ubuntu.com/" target="_blank">Unity</a> e <a title="Site do Gnome3" href="https://gnome3.org/" target="_blank">Gnome3</a>. Ambos prometem modificar significativamente a forma como interagimos com o computador, cada um a sua maneira. Como preparativo para estas novas versões (das quais pretendo testar e publicar aqui minhas impressões), neste artigo vou dar uma visão geral e explicar um pouco do que esperar de cada um.
 
 **Unity**
 
-Ambiente desenvolvido pela <a title="Site da Canonical" href="http://www.canonical.com/" target="_blank">Canonical</a> para a versão para netbooks do <a title="Site do Ubuntu" href="http://www.ubuntu.com/" target="_blank">Ubuntu</a> que virá como ambiente padrão também na vesão desktop da popular distribuição. Com o uso padrão deste ambiente, muita coisa mudou nele para que ficasse estável e atendesse as necessidades dos usuários com telas maiores.
+Ambiente desenvolvido pela <a title="Site da Canonical" href="https://www.canonical.com/" target="_blank">Canonical</a> para a versão para netbooks do <a title="Site do Ubuntu" href="https://www.ubuntu.com/" target="_blank">Ubuntu</a> que virá como ambiente padrão também na vesão desktop da popular distribuição. Com o uso padrão deste ambiente, muita coisa mudou nele para que ficasse estável e atendesse as necessidades dos usuários com telas maiores.
 
 A palavra de ordem do Unity é &#8220;eficiencia&#8221;. Em cada escolha feita pelo time da Canonical vê-se claramente que eles querem utilizar o espaço do monitor da forma mais eficiente possível. Claramente esta é uma herança das raízes &#8220;netbookianas&#8221; do ambiente, mas que não deixa de ser uma preocupação para outros tipos de usuário.
 

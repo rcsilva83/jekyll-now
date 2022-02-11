@@ -28,7 +28,7 @@ O Widbook parece ter um uso bastante amigável e possui alguns recursos interess
 
 #### [Gitbook](https://www.gitbook.com/)
 
-Finalmente encontrei (através de uma dica da [Espírito Livre](http://www.revista.espiritolivre.org/gitbook-uma-forma-simples-de-criar-livros-digitais/)) o Gitbook. Ele também oferece um ambiente colaborativo para leitura e escrita de livros digitais, mas, diferente do Widbook, converte o livro para diversos formatos (PDF, Kindle e ePub) que podem ser baixados, além de poder ser visualizado pela web.
+Finalmente encontrei (através de uma dica da [Espírito Livre](https://www.revista.espiritolivre.org/gitbook-uma-forma-simples-de-criar-livros-digitais/)) o Gitbook. Ele também oferece um ambiente colaborativo para leitura e escrita de livros digitais, mas, diferente do Widbook, converte o livro para diversos formatos (PDF, Kindle e ePub) que podem ser baixados, além de poder ser visualizado pela web.
 
 Também não existe o problema do livro ficar preso dentro da plataforma. O Gitbook utiliza para guardar os livros um formato aberto ([Markdown](https://pt.wikipedia.org/wiki/Markdown)) e os salva num repositório [Git](https://pt.wikipedia.org/wiki/Git). Além da facilidade de acesso para poder ter uma cópia dos meus próprios livros, eu consigo editá-los mesmo se o Gitbook acabar algum dia.
 

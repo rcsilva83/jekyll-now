@@ -18,7 +18,7 @@ tags:
 ---
 <!-- p { margin-bottom: 0.21cm; } -->
 
-***Este artigo foi publicado originalmente na Revista Espírito Livre n.18. Clique <a href="http://www.revista.espiritolivre.org/?p=693" target="_blank">aqui</a> para baixá-la e ler os demais artigos!***
+***Este artigo foi publicado originalmente na Revista Espírito Livre n.18. Clique <a href="https://www.revista.espiritolivre.org/?p=693" target="_blank">aqui</a> para baixá-la e ler os demais artigos!***
 
 <span style="color: #000000;">O Android atualmente é um dos sistemas operacionais para dispositivos móveis mais populares que existe. Dessenvolvido pela Google com o apoio de diversas empresas que formaram a Open Handheld Alliance, ele é baseado em Linux e tem seu código-fonte publicado sob uma licença de software livre. Seu sucesso de adoção, tanto por parte dos usuários como das fabricantes, finalmente colocou o Linux na mão de milhões de usuários em mundo todo!</span>
 
@@ -191,9 +191,9 @@ Foi então que surgiu o MeeGo, um sistema que junta o conhecimento da Nokia em t
           
           <ul>
             <li>
-              Matéria no MaemoBrasil: <a href="http://ur1.ca/1rlth" target="_blank">http://ur1.ca/1rlth</a>
+              Matéria no MaemoBrasil: <a href="https://ur1.ca/1rlth" target="_blank">https://ur1.ca/1rlth</a>
             </li>
             <li>
-              Matéria sobre Android, Symbian e Meego no Guia do Hardware: <a href="http://ur1.ca/1rltj" target="_blank">http://ur1.ca/1rltj</a>
+              Matéria sobre Android, Symbian e Meego no Guia do Hardware: <a href="https://ur1.ca/1rltj" target="_blank">https://ur1.ca/1rltj</a>
             </li>
           </ul>

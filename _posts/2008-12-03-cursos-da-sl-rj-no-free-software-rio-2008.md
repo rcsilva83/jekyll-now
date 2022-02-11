@@ -10,7 +10,7 @@ tags:
   - evento
   - software livre
 ---
-O SLRJ, grupo do Software Livre do Rio de Janeiro, marcará presença na edição 2008 do <a href="http://www.freesoftwarerio.com.br/" target="_blank">Free Software Rio</a>, que acontecerá nos dias 08 e 09 de Dezembro, no Centro de Convenções Bolsa do Rio, Praça XV de Novembro, 20 &#8211; Centro.
+O SLRJ, grupo do Software Livre do Rio de Janeiro, marcará presença na edição 2008 do <a href="https://www.freesoftwarerio.com.br/" target="_blank">Free Software Rio</a>, que acontecerá nos dias 08 e 09 de Dezembro, no Centro de Convenções Bolsa do Rio, Praça XV de Novembro, 20 &#8211; Centro.
 
 Como não poderia deixar de acontecer, estaremos  ministrando mini-cursos no local. A taxa de inscrição é de R$ 40,00 e será feita no dia do evento. O grupo disponibilizará ingressos gratuitos do evento para os inscritos nos mini-cursos. É uma grande oportunidade para que o público tenha contato com as mais variadas vertentes do Software Livre. Contamos com a sua presença!
 
@@ -58,4 +58,4 @@ Como não poderia deixar de acontecer, estaremos  ministrando mini-cursos no lo
   </tr>
 </table>
 
-<a href="http://www.freesoftwarerio.com.br/site/" target="_blank"><br /> </a>
+<a href="https://www.freesoftwarerio.com.br/site/" target="_blank"><br /> </a>

@@ -14,7 +14,7 @@ tags:
   - linux
   - media center
 ---
-*Este mês saiu a edição número 15 da Revista Espírito Livre, onde saiu um artigo que escrevi sobre media centers movidos a Linux. Transcrevo aqui o artigo, mas não deixe de [baixar gratuitamente][1] mais uma imperdível edição desta excelente revista gratuita, cujo tema principal é <a href="http://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo" target="_blank">CMS</a>.*
+*Este mês saiu a edição número 15 da Revista Espírito Livre, onde saiu um artigo que escrevi sobre media centers movidos a Linux. Transcrevo aqui o artigo, mas não deixe de [baixar gratuitamente][1] mais uma imperdível edição desta excelente revista gratuita, cujo tema principal é <a href="https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo" target="_blank">CMS</a>.*
 
 Com a miniaturização dos computadores, cada vez mais eles vêm ocupando lugares onde nunca havíamos pensado antes. Há algum tempo alguém pensou que seria interessante ter um computador dedicado ao entretenimento, como assistir vídeos, ouvir música e ver fotos, seja a partir de conteúdo que a pessoa já previamente possuía ou através da Internet. A este tipo de computador foi dado o nome de *media center* e, com um equipamento deste em sua sala de estar, você poderá aposentar seu aparelho de DVD e ter muito mais opções de lazer para toda a família.
 
@@ -73,13 +73,13 @@ Para quem quer ter total flexibilidade e liberdade para “hackear” (hackear n
   
   <ul>
     <li>
-      <a href="http://www.wdc.com/en/products/Products.asp?DriveID=832">WD TV Live Plus</a>: produto top de linha da Western Digital, baseado em diversos softwares livres, inclusive o kernel Linux, mas com algumas partes proprietárias, é barato (custando apenas US$150,00, ou seja, menos de R$300,00) e com suporte a full HD;
+      <a href="https://www.wdc.com/en/products/Products.asp?DriveID=832">WD TV Live Plus</a>: produto top de linha da Western Digital, baseado em diversos softwares livres, inclusive o kernel Linux, mas com algumas partes proprietárias, é barato (custando apenas US$150,00, ou seja, menos de R$300,00) e com suporte a full HD;
     </li>
     <li>
-      <a href="http://www.mvixusa.com/product/ultiopro">Mvix Ultio Pro</a>: produto top de linha da Mvix (empresa um tanto desconhecida, mas com produtos de qualidade), também é baseado em diversos softwares livres, kernel Linux e com algumas porções proprietárias, um pouco mais caro que o anterior (US$170,00), mas com muito mais funcionalidades, incluindo gravação da TV e HD interno (não incluso);
+      <a href="https://www.mvixusa.com/product/ultiopro">Mvix Ultio Pro</a>: produto top de linha da Mvix (empresa um tanto desconhecida, mas com produtos de qualidade), também é baseado em diversos softwares livres, kernel Linux e com algumas porções proprietárias, um pouco mais caro que o anterior (US$170,00), mas com muito mais funcionalidades, incluindo gravação da TV e HD interno (não incluso);
     </li>
     <li>
-      <a href="http://www.neurostechnology.com/osd">Neuros OSD</a>: produto da Neuros Technology, quase totalmente software livre e na mesma faixa de preço (US$180,00), mas sem suporte a full HD;
+      <a href="https://www.neurostechnology.com/osd">Neuros OSD</a>: produto da Neuros Technology, quase totalmente software livre e na mesma faixa de preço (US$180,00), mas sem suporte a full HD;
     </li>
   </ul>
   
@@ -104,7 +104,7 @@ Para quem quer ter total flexibilidade e liberdade para “hackear” (hackear n
   </p>
   
   <p>
-    No entanto a grande expectativa do momento no campo dos <em>media centers</em> é o recém-anunciado <a href="http://www.google.com/tv/">Google TV</a>. Ele é um software que está sendo desenvolvido pela gigante das buscas, utilizando como base o sistema operacional Android que, por sua vez, é baseado no kernel Linux. A ideia é fabricar aparelhos para ligar à TV e até mesmo TVs com o sistema instalado. Alguns fabricantes de peso, com Sony, Logitech e Intel, já anunciaram parceria e deverão lançar produtos assim que sair a primeira versão do software.
+    No entanto a grande expectativa do momento no campo dos <em>media centers</em> é o recém-anunciado <a href="https://www.google.com/tv/">Google TV</a>. Ele é um software que está sendo desenvolvido pela gigante das buscas, utilizando como base o sistema operacional Android que, por sua vez, é baseado no kernel Linux. A ideia é fabricar aparelhos para ligar à TV e até mesmo TVs com o sistema instalado. Alguns fabricantes de peso, com Sony, Logitech e Intel, já anunciaram parceria e deverão lançar produtos assim que sair a primeira versão do software.
   </p>
   
   <h2>
@@ -115,9 +115,9 @@ Para quem quer ter total flexibilidade e liberdade para “hackear” (hackear n
     As opções estão aí e tudo depende do uso que você pretende fazer do equipamento. Se deseja apenas um eletrônico de alta tecnologia para sua sala de estar, prefira um produto pronto, escolhendo o modelo baseado nas especificações e na opinião de outros compradores (e conseguindo uma forma legal de importar o aparelho). Mas se desejar fazer melhorias, deixando o equipamento do seu jeito, tirando máximo proveito do software livre, o melhor talvez seja montar seu próprio <em>media center</em>. Um opção intermediária seria pode comprar algum produto pronto que tenha uma comunidade grande que já esteja estudando formas de modificar e melhorar o aparelho, como o WD TV, ou um que já seja “aberto” de fábrica, como o OSD. De qualquer forma, não se esqueça de prestar atenção nas especificações técnicas. Se aguentar esperar, aguarde pela ótimas novidades que estão por vir, pois elas certamente mudarão bastante o mercado e o deixarão muito mais livre.
   </p>
 
- [1]: http://ur1.ca/0ep80
- [2]: http://www.mythtv.org/
- [3]: http://www.mythbuntu.org/
- [4]: http://www.ubuntu.com/
- [5]: http://xbmc.org/
- [6]: http://www.boxee.tv/
+ [1]: https://ur1.ca/0ep80
+ [2]: https://www.mythtv.org/
+ [3]: https://www.mythbuntu.org/
+ [4]: https://www.ubuntu.com/
+ [5]: https://xbmc.org/
+ [6]: https://www.boxee.tv/

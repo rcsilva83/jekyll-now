@@ -22,7 +22,7 @@ Mais um curso de música do <a title="Site do Coursera" href="https://www.course
 
 <!-- more -->
 
-Antes de mais nada devo dizer que este foi o **melhor curso** que já fiz no Coursera! Trazido pela <a title="Site da Berklee College of Music" href="http://www.berklee.edu/" target="_blank">Berklee College of Music</a>, considerada por muitos como a melhor faculdade de música do mundo, o curso é ministrado por <a title="Site do Pat Pattison" href="http://www.patpattison.com/" target="_blank">Pat Pattison</a>, que tem uma excelente didática e muito bom humor. Ao longo de apenas 6 semanas, foi passado um extenso conteúdo voltado a escrita de letras e criação de melodia, essencial para aqueles que estão começando ou querem se aprofundar na arte da composição musical. Harmonia ficou de fora porque é um assunto extenso demais.
+Antes de mais nada devo dizer que este foi o **melhor curso** que já fiz no Coursera! Trazido pela <a title="Site da Berklee College of Music" href="https://www.berklee.edu/" target="_blank">Berklee College of Music</a>, considerada por muitos como a melhor faculdade de música do mundo, o curso é ministrado por <a title="Site do Pat Pattison" href="https://www.patpattison.com/" target="_blank">Pat Pattison</a>, que tem uma excelente didática e muito bom humor. Ao longo de apenas 6 semanas, foi passado um extenso conteúdo voltado a escrita de letras e criação de melodia, essencial para aqueles que estão começando ou querem se aprofundar na arte da composição musical. Harmonia ficou de fora porque é um assunto extenso demais.
 
 <p style="text-align: center;">
   <img class="aligncenter" alt="" src="https://coursera-university-assets.s3.amazonaws.com/ce/77a045e73e76620497bd0992177021/masthead.jpg" width="742" height="176" />
@@ -57,7 +57,7 @@ Antes de mais nada devo dizer que este foi o **melhor curso** que já fiz no Cou
 </p>
 
 <p style="text-align: left;">
-  Para acompanhar o curso, comprei o livro recomendado &#8220;<a title="Livro &quot;Writing Better Lyrics&quot; na Amazon" href="http://www.amazon.com.br/Writing-Better-Lyrics-ebook/dp/B005070P1C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366679609&sr=1-1&keywords=Writing+Better+Lyrics" target="_blank">Writing Better Lyrics</a>&#8220;, do próprio Pat Pattison. Achei que valeu bastante a pena, pois o livro tem um conteúdo adicional muito bom e não é tão caro.
+  Para acompanhar o curso, comprei o livro recomendado &#8220;<a title="Livro &quot;Writing Better Lyrics&quot; na Amazon" href="https://www.amazon.com.br/Writing-Better-Lyrics-ebook/dp/B005070P1C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366679609&sr=1-1&keywords=Writing+Better+Lyrics" target="_blank">Writing Better Lyrics</a>&#8220;, do próprio Pat Pattison. Achei que valeu bastante a pena, pois o livro tem um conteúdo adicional muito bom e não é tão caro.
 </p>
 
 <p style="text-align: left;">

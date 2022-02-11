@@ -19,4 +19,4 @@ Serão apresentadas 16 palestras, com duração de 1 hora cada, e 12 minicursos,
 
 Dentre as novidades deste ano, o evento conta com o lançamento de duas tecnologias 100% brasileiras, uma é o VR Livre Estúdio, que é um módulo multimídia interativo, onde o usuário pode editar fotos, vídeos, som e muito mais numa interface amigável e bem intuitiva e a Lousa Interativa, que é um sistema que transforma qualquer datashow ou monitor em uma lousa digital.
 
-O evento acontecerá nos dias 24/09 a 25/09 na Estação Leopoldina, Avenida Francisco Bicalho, 3, centro, rio de janeiro das 08:00h às 17:00, entrada franca. Maiores detalhes acesse <a href="http://gnugraf.org/" target="_blank">http://gnugraf.org/</a>.
+O evento acontecerá nos dias 24/09 a 25/09 na Estação Leopoldina, Avenida Francisco Bicalho, 3, centro, rio de janeiro das 08:00h às 17:00, entrada franca. Maiores detalhes acesse <a href="https://gnugraf.org/" target="_blank">https://gnugraf.org/</a>.

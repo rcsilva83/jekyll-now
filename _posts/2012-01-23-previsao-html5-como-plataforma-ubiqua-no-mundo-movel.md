@@ -16,7 +16,7 @@ tags:
   - mobile
   - previsão
 ---
-**Este artigo foi publicado originalmente na <a title="Revista Espírito Livre ed. 33" href="http://www.revista.espiritolivre.org/lancada-edicao-n-33-da-revista-espirito-livre" target="_blank">Revista Espírito Livre ed. 33</a> com tema &#8220;Previsões para 2012&#8243;. Não deixe de ler os demais artigos, pois está muito legal!**
+**Este artigo foi publicado originalmente na <a title="Revista Espírito Livre ed. 33" href="https://www.revista.espiritolivre.org/lancada-edicao-n-33-da-revista-espirito-livre" target="_blank">Revista Espírito Livre ed. 33</a> com tema &#8220;Previsões para 2012&#8243;. Não deixe de ler os demais artigos, pois está muito legal!**
 
 O HTML5 é uma das tecnologias mais comentadas do momento. Composto de um conjunto de padrões abertos, promete possibilidades ilimitadas para o desenvolvimento de sites e aplicativos web, inclusive para rodarem em dispositivos móveis.
 
@@ -42,9 +42,9 @@ Com esta expansão, 2012 poderá ser um ano em que o HTML5 começará a ser cons
 
 **Referências:**
 
-*   [1] <a href="http://va.mu/TcWk" target="_blank">http://va.mu/TcWk</a>
-*   [2] <a href="http://va.mu/TcWp" target="_blank">http://va.mu/TcWp</a>
-*   [3] <http://rhomobile.com/>
-*   [4] <http://phonegap.com/>
-*   [5] <a href="http://va.mu/TcWr" target="_blank">http://va.mu/TcWr</a>
-*   [6] <a href="http://va.mu/TcWt" target="_blank">http://va.mu/TcWt</a>
+*   [1] <a href="https://va.mu/TcWk" target="_blank">https://va.mu/TcWk</a>
+*   [2] <a href="https://va.mu/TcWp" target="_blank">https://va.mu/TcWp</a>
+*   [3] <https://rhomobile.com/>
+*   [4] <https://phonegap.com/>
+*   [5] <a href="https://va.mu/TcWr" target="_blank">https://va.mu/TcWr</a>
+*   [6] <a href="https://va.mu/TcWt" target="_blank">https://va.mu/TcWt</a>

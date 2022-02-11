@@ -14,7 +14,7 @@ tags:
   - microsoft
   - wave
 ---
-Ontem vi o impressionante vídeo de apresentação do novo produto da Google: <a href="http://wave.google.com/" target="_blank">Google Wave</a>. Pensando sobre a forma como a Google quer (ou pelo menos diz que vai) desenvolver o produto, como um software livre (open source) e baseado em padrões abertos, comecei a imaginar como seria se outros gigantes de tecnologia trabalhariam se tivessem inventado o mesmo produto.
+Ontem vi o impressionante vídeo de apresentação do novo produto da Google: <a href="https://wave.google.com/" target="_blank">Google Wave</a>. Pensando sobre a forma como a Google quer (ou pelo menos diz que vai) desenvolver o produto, como um software livre (open source) e baseado em padrões abertos, comecei a imaginar como seria se outros gigantes de tecnologia trabalhariam se tivessem inventado o mesmo produto.
 
 **Google Wave (o caso real)**
 
@@ -23,8 +23,8 @@ Ontem vi o impressionante vídeo de apresentação do novo produto da Google: <a
 
 *   Software livre;
 *   Web, baseado em padrões aberto da W3C, tornando-se multi-plataforma (roda em qualquer navegador, sistema operacional ou dispositivo com um navegador, como o iPhone);
-*   Comunicação baseada em protocolos abertos e <a href="http://waveprotocol.org/" target="_blank">criação de novos protocolos</a> abertos para suportar as inovações;
-*   Disponibilização de uma <a href="http://code.google.com/intl/pt-BR/apis/wave/" target="_blank">API</a> para desenvolvimento de softwares de terceiros;
+*   Comunicação baseada em protocolos abertos e <a href="https://waveprotocol.org/" target="_blank">criação de novos protocolos</a> abertos para suportar as inovações;
+*   Disponibilização de uma <a href="https://code.google.com/intl/pt-BR/apis/wave/" target="_blank">API</a> para desenvolvimento de softwares de terceiros;
 
 **&#8220;Apple iWave&#8221;**
 

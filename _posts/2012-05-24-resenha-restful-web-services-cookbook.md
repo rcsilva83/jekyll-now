@@ -17,11 +17,11 @@ tags:
   - REST
   - web services
 ---
-Recentemente mudei de emprego e tenho trabalhado num projeto de um *web service* <a title="REST na Wikipédia" href="http://pt.wikipedia.org/wiki/REST" target="_blank">REST</a>. É um meu primeiro projeto utilizando este estilo arquitetural, mas eu sempre tive muito interesse nele.
+Recentemente mudei de emprego e tenho trabalhado num projeto de um *web service* <a title="REST na Wikipédia" href="https://pt.wikipedia.org/wiki/REST" target="_blank">REST</a>. É um meu primeiro projeto utilizando este estilo arquitetural, mas eu sempre tive muito interesse nele.
 
 Como estava sem nada para ler, resolvi comprar um livro que pudesse me ajudar no meu trabalho além de abordar um assunto que há muito tempo estava querendo me aprofundar: um livro sobre REST.
 
-Foi então que encontrei os livros &#8220;<a title="Livro RESTful Web Services Cookbook" href="http://shop.oreilly.com/product/9780596801694.do" target="_blank">RESTful Web Services Cookbook</a>&#8221; e &#8220;<a title="Livro REST in Practice" href="http://shop.oreilly.com/product/9780596805838.do" target="_blank">REST in Practice</a>&#8220;, ambos com excelentes notas e comentários na Amazon. Decidi começar os estudos pelo primeiro, por sua abordagem mais prática que seria mais útil para ser aplicado num projeto em andamento, e é sobre ele que irei escrever.
+Foi então que encontrei os livros &#8220;<a title="Livro RESTful Web Services Cookbook" href="https://shop.oreilly.com/product/9780596801694.do" target="_blank">RESTful Web Services Cookbook</a>&#8221; e &#8220;<a title="Livro REST in Practice" href="https://shop.oreilly.com/product/9780596805838.do" target="_blank">REST in Practice</a>&#8220;, ambos com excelentes notas e comentários na Amazon. Decidi começar os estudos pelo primeiro, por sua abordagem mais prática que seria mais útil para ser aplicado num projeto em andamento, e é sobre ele que irei escrever.
 
 <p style="text-align: center;">
   <img class="aligncenter  wp-image-773" title="Restful Web Services Cookbook" src="/wp-content/uploads/2012/05/Restful-Web-Services-Cookbook-228x300.jpg" alt="Capa do livro &quot;Restful Web Services Cookbook&quot;" width="228" height="300" /><strong>Estrutura do livro </strong>

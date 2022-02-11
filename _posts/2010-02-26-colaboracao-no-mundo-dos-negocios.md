@@ -17,7 +17,7 @@ tags:
   - software livre
 ---
 <p style="text-align: justify;">
-  <em>Este artigo foi publicado originalmente na <a href="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=8" target="_blank">edição n.8</a> da Revista Espírito Livre, lançada em Novembro de 2009. Sempre que posso recomendo a leitura da revista, que é gratuita e de ótima qualidade! Veja <a href="http://www.revista.espiritolivre.org/?cat=11" target="_blank">neste link</a> todas as edições e tenha uma boa leitura. Segue o meu artigo.</em>
+  <em>Este artigo foi publicado originalmente na <a href="https://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=8" target="_blank">edição n.8</a> da Revista Espírito Livre, lançada em Novembro de 2009. Sempre que posso recomendo a leitura da revista, que é gratuita e de ótima qualidade! Veja <a href="https://www.revista.espiritolivre.org/?cat=11" target="_blank">neste link</a> todas as edições e tenha uma boa leitura. Segue o meu artigo.</em>
 </p>
 
 <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } -->
@@ -63,7 +63,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Para softwares maiores, também podem ser feitos patrocínios ou organização de eventos. Um exemplo de empresa que faz bastante isto é o <a href="http://www.serpro.gov.br/" target="_blank">SERPRO</a>. Este órgão é um dos maiores usuários da linguagem <a href="http://www.python.org/" target="_blank">Python</a> e sempre que possível patrocina os eventos da comunidade no Brasil. Ele é, inclusive, um dos grandes responsáveis pela popularização da linguagem no nosso país.
+  Para softwares maiores, também podem ser feitos patrocínios ou organização de eventos. Um exemplo de empresa que faz bastante isto é o <a href="https://www.serpro.gov.br/" target="_blank">SERPRO</a>. Este órgão é um dos maiores usuários da linguagem <a href="https://www.python.org/" target="_blank">Python</a> e sempre que possível patrocina os eventos da comunidade no Brasil. Ele é, inclusive, um dos grandes responsáveis pela popularização da linguagem no nosso país.
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Um exemplo muito bom de empresa que faz isto de uma maneira muito inteligente é a <a href="http://www.caixa.gov.br/" target="_blank">Caixa</a>. A empresa abre licitações para contratação de consultorias em software livre, contendo exigências de que a empresa contratada tenha um número mínimo de membros ativos na comunidade. Isto, ao mesmo tempo que garante uma qualidade de serviço melhor, pois a consultoria terá pessoas qualificadas para o trabalho, contribui para que o software se fortaleça, remunerando os membros ativos e incentivando a entrada de novos.
+  Um exemplo muito bom de empresa que faz isto de uma maneira muito inteligente é a <a href="https://www.caixa.gov.br/" target="_blank">Caixa</a>. A empresa abre licitações para contratação de consultorias em software livre, contendo exigências de que a empresa contratada tenha um número mínimo de membros ativos na comunidade. Isto, ao mesmo tempo que garante uma qualidade de serviço melhor, pois a consultoria terá pessoas qualificadas para o trabalho, contribui para que o software se fortaleça, remunerando os membros ativos e incentivando a entrada de novos.
 </p>
 
 <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		H2 { margin-bottom: 0.21cm } 		H2.western { font-family: "Arial", sans-serif; font-size: 14pt; font-style: italic } 		H2.cjk { font-size: 14pt; font-style: italic } 		H2.ctl { font-size: 14pt; font-style: italic } -->
@@ -104,7 +104,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Quem utiliza bastante este modelo é o <a href="http://www.bb.com.br/" target="_blank">Banco do Brasil</a>. Ele faz contribuições para os softwares que usa, como o desenvolvimento de melhorias no <a href="http://www.winehq.org/" target="_blank">Wine</a>, traduções do <a href="http://freemind.sourceforge.net/" target="_blank">Freemind</a> e código e documentação do <a href="http://www.broffice.org/" target="_blank">BrOffice.org</a>. Estes trabalhos foram feitos para o atendimento de demandas internas e que, posteriormente, foram disponibilizados. Neste caso, ambas as partes ganham: todos os usuários, que contarão com um software melhor, e a própria empresa, que não precisará manter os códigos desenvolvidos por conta própria.
+  Quem utiliza bastante este modelo é o <a href="https://www.bb.com.br/" target="_blank">Banco do Brasil</a>. Ele faz contribuições para os softwares que usa, como o desenvolvimento de melhorias no <a href="https://www.winehq.org/" target="_blank">Wine</a>, traduções do <a href="https://freemind.sourceforge.net/" target="_blank">Freemind</a> e código e documentação do <a href="https://www.broffice.org/" target="_blank">BrOffice.org</a>. Estes trabalhos foram feitos para o atendimento de demandas internas e que, posteriormente, foram disponibilizados. Neste caso, ambas as partes ganham: todos os usuários, que contarão com um software melhor, e a própria empresa, que não precisará manter os códigos desenvolvidos por conta própria.
 </p>
 
 <p style="text-align: justify;">
@@ -131,5 +131,5 @@ tags:
   <strong>Para mais informações:</strong>
 </p>
 
-*   <a href="http://ur1.ca/enit" target="_blank">Software livre é usado em 73% das grandes empresas no Brasil</a>;
-*   <a href="http://ur1.ca/eniz" target="_blank">Empresas e a Comunidade Software Livre</a>;
+*   <a href="https://ur1.ca/enit" target="_blank">Software livre é usado em 73% das grandes empresas no Brasil</a>;
+*   <a href="https://ur1.ca/eniz" target="_blank">Empresas e a Comunidade Software Livre</a>;

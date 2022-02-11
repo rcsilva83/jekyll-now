@@ -12,7 +12,7 @@ tags:
   - rock
   - beatles
 ---
-Seguindo a série de artigos sobre cursos musicais do site [Coursera](http://coursera.org), é a vez de falar como foi o curso "[The Music of The Beatles](https://www.coursera.org/course/beatles)". Com certeza um curso sobre a maior banda de todos os tempos é obrigatório para qualquer amante de rock n' roll! Você é "metaleiro true" e odeia os Beatles? Antes de fechar a janela, leia este meu pequeno resumo para saber porquê você deve fazer este curso :) 
+Seguindo a série de artigos sobre cursos musicais do site [Coursera](https://coursera.org), é a vez de falar como foi o curso "[The Music of The Beatles](https://www.coursera.org/course/beatles)". Com certeza um curso sobre a maior banda de todos os tempos é obrigatório para qualquer amante de rock n' roll! Você é "metaleiro true" e odeia os Beatles? Antes de fechar a janela, leia este meu pequeno resumo para saber porquê você deve fazer este curso :) 
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ O professor deste curso é o excelente John Covach, mesmo professor dos cursos d
 
 Na **primeira semana** vemos o início da carreira da banda desde quando eram apenas uma banda cover tocando em *pubs* em Liverpool e em Hamburgo. Nesta época eles tinham uma rotina muito cansativa e eram famosos por fazerem versões covers com bastante perfeição. Não demorou para que conseguissem assinar com uma gravadora e começar a emplacar diversos *hit singles*, conseguindo grande sucesso no Reino Unido! Nesta semana vimos músicas dos ábuns "Please Please Me", "With the Beatles" e os *singles* do período, uma época em que o som da banda era basicamente uma repetição do que fazia sucesso na época.
 
-Na **segunda semana** vemos as músicas e *singles* da época dos álbuns "A Hard Day's Night" e "Beatles For Sale", quando os Beatles param os Estados Unidos e alcançam sucesso mundial iniciando a "[Invasão Britânica](http://pt.wikipedia.org/wiki/Invas%C3%A3o_Brit%C3%A2nica)". É no álbum "A Hard Day's Night" em que a banda alcança sua melhor forma no estilo "artesão" de fazer música[^1]. O "Beatles For Sale" já é um álbum de transição e já estão buscando novas influências e novos caminhos.
+Na **segunda semana** vemos as músicas e *singles* da época dos álbuns "A Hard Day's Night" e "Beatles For Sale", quando os Beatles param os Estados Unidos e alcançam sucesso mundial iniciando a "[Invasão Britânica](https://pt.wikipedia.org/wiki/Invas%C3%A3o_Brit%C3%A2nica)". É no álbum "A Hard Day's Night" em que a banda alcança sua melhor forma no estilo "artesão" de fazer música[^1]. O "Beatles For Sale" já é um álbum de transição e já estão buscando novas influências e novos caminhos.
 
 A **terceira semana** é a vez das músicas e *singles* da época dos álbuns "Help!" e "Rubber Soul", quando adotaram de vez o estilo "artista" de fazer música, experimentando com novas técnicas de gravação e inovando em diversas áreas. Além disso, por influência de Bob Dylan, suas letras começam a tratar de temas mais sérios e relevantes e também procuram trazer maior autenticidade para seu som.
 

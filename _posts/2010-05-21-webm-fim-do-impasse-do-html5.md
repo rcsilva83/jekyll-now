@@ -17,7 +17,7 @@ tags:
   - webm
 ---
 <p style="text-align: justify;">
-  Eis que na semana que começou com a <a href="http://whiplash.net/materias/news_863/107949-dio.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FiSMr+%28WHIPLASH.NET+-+Rock+e+Heavy+Metal%29&utm_content=Google+Reader" target="_blank">perda de um grande ídolo</a>, temos uma ótima notícia: a Google <a href="http://br-linux.org/2010/webm-google-lanca-formato-de-video-aberto-para-web/" target="_blank">anuncia o lançamento</a> de um codec de vídeos livre para ser utilizado na web! Este é um grande passo na direção de uma web mais aberta, portável e acessível.
+  Eis que na semana que começou com a <a href="https://whiplash.net/materias/news_863/107949-dio.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FiSMr+%28WHIPLASH.NET+-+Rock+e+Heavy+Metal%29&utm_content=Google+Reader" target="_blank">perda de um grande ídolo</a>, temos uma ótima notícia: a Google <a href="https://br-linux.org/2010/webm-google-lanca-formato-de-video-aberto-para-web/" target="_blank">anuncia o lançamento</a> de um codec de vídeos livre para ser utilizado na web! Este é um grande passo na direção de uma web mais aberta, portável e acessível.
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +33,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Todo este movimento veio puxado por sites como Orkut (aqui no Brasil), Blogger, YouTube, Flickr, dentre outros. No caso particular do YouTube, não havia meios de executar vídeos diretamente pelo navegador, a não ser apelando para o uso de plugins. Eles então escolheram o Adobe Flash Player como plataforma de execução de vídeos via <a href="http://pt.wikipedia.org/wiki/Streaming" target="_blank"><em>streaming</em></a>.
+  Todo este movimento veio puxado por sites como Orkut (aqui no Brasil), Blogger, YouTube, Flickr, dentre outros. No caso particular do YouTube, não havia meios de executar vídeos diretamente pelo navegador, a não ser apelando para o uso de plugins. Eles então escolheram o Adobe Flash Player como plataforma de execução de vídeos via <a href="https://pt.wikipedia.org/wiki/Streaming" target="_blank"><em>streaming</em></a>.
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +48,7 @@ tags:
     Sites como YouTube não funcionavam bem em plataformas pouco suportadas pelo software (como Linux antigamente) e ninguém podia melhorar isto além da Adobe (problema acima);
   </li>
   <li>
-    Aparelhos móveis, como smartphones, tiveram têm problemas para suportar a tecnologia e com o consumo de bateria (Steve Jobs, da Apple, <a href="http://meiobit.com/65338/steve-jobs-decreta-o-fim-do-flash/" target="_blank">falou sobre isto há pouco tempo</a>);
+    Aparelhos móveis, como smartphones, tiveram têm problemas para suportar a tecnologia e com o consumo de bateria (Steve Jobs, da Apple, <a href="https://meiobit.com/65338/steve-jobs-decreta-o-fim-do-flash/" target="_blank">falou sobre isto há pouco tempo</a>);
   </li>
   <li>
     Problemas comerciais com empresas que não querem ficar dependentes da Adobe (Steve Jobs também falou sobre isto).
@@ -60,15 +60,15 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Foi então que a <a href="http://pt.wikipedia.org/wiki/W3C" target="_blank">W3C</a>, consórcio de empresas que criam e mantém os padrões abertos que todos seguem (menos a Microsoft no Internet Explorer&#8230;) para que a web seja aberta e interoperável, percebeu que era hora dos padrões evoluírem para acompanhar toda esta mudança. O carro chefe desta mudança seria a atualização do principal padrão utilizado para criar websites: o <a href="http://pt.wikipedia.org/wiki/HTML" target="_blank">HTML</a>. Com a versão 5, o sites poderiam utilizar vários recursos avançados, como por exemplo execução de áudio e vídeo, direto no navegador sem depender de plugins externos (<a href="http://idgnow.uol.com.br/internet/2009/06/16/html-5-conheca-a-linguagem-que-vai-revolucionar-sua-navegacao-na-web/" target="_blank">saiba mais sobre HTML5</a>).
+  Foi então que a <a href="https://pt.wikipedia.org/wiki/W3C" target="_blank">W3C</a>, consórcio de empresas que criam e mantém os padrões abertos que todos seguem (menos a Microsoft no Internet Explorer&#8230;) para que a web seja aberta e interoperável, percebeu que era hora dos padrões evoluírem para acompanhar toda esta mudança. O carro chefe desta mudança seria a atualização do principal padrão utilizado para criar websites: o <a href="https://pt.wikipedia.org/wiki/HTML" target="_blank">HTML</a>. Com a versão 5, o sites poderiam utilizar vários recursos avançados, como por exemplo execução de áudio e vídeo, direto no navegador sem depender de plugins externos (<a href="https://idgnow.uol.com.br/internet/2009/06/16/html-5-conheca-a-linguagem-que-vai-revolucionar-sua-navegacao-na-web/" target="_blank">saiba mais sobre HTML5</a>).
 </p>
 
 <p style="text-align: justify;">
-  Tudo estava muito bom até que se chegou na discussão do <a href="http://pt.wikipedia.org/wiki/Codec" target="_blank">codec</a> de vídeo a ser padronizado. De um lado Ogg Theora: livre e gratuito para qualquer tipo de uso, mas pouco difundido e com possíveis problemas de patentes. Do outro o H.264: proprietário e pago, mas amplamente utilizado (inclusive dentro do Flash), suportado por hardware (o que torna mais rápido e com baixo consumo de recursos) e tecnicamente (ou teoricamente) melhor. Empresas proprietárias, como Microsoft e Apple, defendendo o H.264. Empresas e fundações pró-software livre, como Mozilla e FSF, defendendo o Theora. Google em cima do muro suportando ambos no seu navegador Chrome.
+  Tudo estava muito bom até que se chegou na discussão do <a href="https://pt.wikipedia.org/wiki/Codec" target="_blank">codec</a> de vídeo a ser padronizado. De um lado Ogg Theora: livre e gratuito para qualquer tipo de uso, mas pouco difundido e com possíveis problemas de patentes. Do outro o H.264: proprietário e pago, mas amplamente utilizado (inclusive dentro do Flash), suportado por hardware (o que torna mais rápido e com baixo consumo de recursos) e tecnicamente (ou teoricamente) melhor. Empresas proprietárias, como Microsoft e Apple, defendendo o H.264. Empresas e fundações pró-software livre, como Mozilla e FSF, defendendo o Theora. Google em cima do muro suportando ambos no seu navegador Chrome.
 </p>
 
 <p style="text-align: justify;">
-  Então a FSF teve uma ótima ideia e publicou uma <a href="http://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube/" target="_blank">carta aberta</a> à Google, pedindo que ela abrisse o código do VP8: um codec que, após uma aquisição, havia se tornado de sua propriedade. Este seria um candidato perfeito para acabar com a discussão já que ele não teria problemas de patentes e seria tecnicamente melhor que o H.264.
+  Então a FSF teve uma ótima ideia e publicou uma <a href="https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube/" target="_blank">carta aberta</a> à Google, pedindo que ela abrisse o código do VP8: um codec que, após uma aquisição, havia se tornado de sua propriedade. Este seria um candidato perfeito para acabar com a discussão já que ele não teria problemas de patentes e seria tecnicamente melhor que o H.264.
 </p>
 
 <p style="text-align: justify;">
@@ -76,7 +76,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Chegamos no presente e no anúncio do qual mencionei no início do post. O WebM utiliza para codificação de vídeo justamente o VP8 (conforme pedido pela FSF) e realmente acho que o impasse dos codecs chegará ao fim, já que a Microsoft já <a href="http://info.abril.com.br/noticias/tecnologia-pessoal/microsoft-deve-suportar-webm-do-google-20052010-6.shl" target="_blank">anunciou</a> que suportará o WebM e acho que a Apple não vai muito à frente sozinha.
+  Chegamos no presente e no anúncio do qual mencionei no início do post. O WebM utiliza para codificação de vídeo justamente o VP8 (conforme pedido pela FSF) e realmente acho que o impasse dos codecs chegará ao fim, já que a Microsoft já <a href="https://info.abril.com.br/noticias/tecnologia-pessoal/microsoft-deve-suportar-webm-do-google-20052010-6.shl" target="_blank">anunciou</a> que suportará o WebM e acho que a Apple não vai muito à frente sozinha.
 </p>
 
 <p style="text-align: justify;">
@@ -84,5 +84,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>PS:</strong> Você pode fazer sua parte em favor de uma web mais aberta utilizando navegadores que sejam aderentes aos padrões internacionais da W3C, como o <a href="http://www.mozilla.com/pt-BR/firefox/" target="_blank">Firefox</a>, <a href="http://www.google.com/chrome" target="_blank">Google Chrome</a>, <a href="http://www.opera.com/" target="_blank">Opera</a> e <a href="http://www.apple.com/safari/" target="_blank">Safari</a>. Dizem que o Internet Explorer 8 está totalmente aderente, mas não tenho certeza (o IE6 e 7 com certeza não são). De qualquer modo eu recomendo o Firefox ou o Chrome, por serem softwares livres.</em>
+  <em><strong>PS:</strong> Você pode fazer sua parte em favor de uma web mais aberta utilizando navegadores que sejam aderentes aos padrões internacionais da W3C, como o <a href="https://www.mozilla.com/pt-BR/firefox/" target="_blank">Firefox</a>, <a href="https://www.google.com/chrome" target="_blank">Google Chrome</a>, <a href="https://www.opera.com/" target="_blank">Opera</a> e <a href="https://www.apple.com/safari/" target="_blank">Safari</a>. Dizem que o Internet Explorer 8 está totalmente aderente, mas não tenho certeza (o IE6 e 7 com certeza não são). De qualquer modo eu recomendo o Firefox ou o Chrome, por serem softwares livres.</em>
 </p>

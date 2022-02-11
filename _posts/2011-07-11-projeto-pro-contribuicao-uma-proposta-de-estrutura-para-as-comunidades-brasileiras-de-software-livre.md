@@ -16,7 +16,7 @@ tags:
   - reporte
   - triagem
 ---
-Muito se tem falado pelos &#8220;corredores&#8221; das comunidades de software livre a respeito da falta de contribuição dos brasileiros, principalmente com codificação. Um acontecimento marcante para a comunidade do Estado do Rio de Janeiro foi em 2009, quando<a title="Jon &quot;Maddog&quot; Hall na Wikipédia" href="http://pt.wikipedia.org/wiki/Jon_Hall" target="_blank"> Jon &#8220;Maddog&#8221; Hall</a> veio ao <a title="Fórum de Software Livre de Duque de Caxias" href="http://forumsoftwarelivre.com.br/" target="_blank">FSLDC</a> e disse &#8220;vocês já tem fazem bastante divulgação &#8211; agora vocês precisam escrever código&#8221;.
+Muito se tem falado pelos &#8220;corredores&#8221; das comunidades de software livre a respeito da falta de contribuição dos brasileiros, principalmente com codificação. Um acontecimento marcante para a comunidade do Estado do Rio de Janeiro foi em 2009, quando<a title="Jon &quot;Maddog&quot; Hall na Wikipédia" href="https://pt.wikipedia.org/wiki/Jon_Hall" target="_blank"> Jon &#8220;Maddog&#8221; Hall</a> veio ao <a title="Fórum de Software Livre de Duque de Caxias" href="https://forumsoftwarelivre.com.br/" target="_blank">FSLDC</a> e disse &#8220;vocês já tem fazem bastante divulgação &#8211; agora vocês precisam escrever código&#8221;.
 
 De fato, se observarmos bem, as contribuições brasileiras para a maioria dos projetos livres são sempre em:
 

@@ -19,11 +19,11 @@ date: '2017-07-22 13:00:00 -0300'
 ---
 **Atualização 08/11/2021**: não tive boas experiências com a Freshtunes, que indico neste artigo. Leia [aqui](desrecomendando-freshtunes) o meu relato.
 
-**Atualização 01/02/2018**: Atualmente o OneRPM distribui para o iTunes/Apple Music gratuitamente e se tornou minha primeira opção dentre os distribuidores gratuitos. Se quiser um comparativo muito mais completo que o meu, recomento [este](http://www.aristake.com/post/cd-baby-tunecore-ditto-mondotunes-zimbalam-or) (em inglês).
+**Atualização 01/02/2018**: Atualmente o OneRPM distribui para o iTunes/Apple Music gratuitamente e se tornou minha primeira opção dentre os distribuidores gratuitos. Se quiser um comparativo muito mais completo que o meu, recomento [este](https://www.aristake.com/post/cd-baby-tunecore-ditto-mondotunes-zimbalam-or) (em inglês).
 
 Atualmente uma das formas mais práticas de escutar música é através de serviços de streaming, como Spotify, Deezer, Apple Music, Google Play Music etc. Para todos que são viciados em música (como eu), sempre recomendo estes serviços, pois temos acesso a um acervo de músicas praticamente ilimitado e disponível em qualquer lugar!
 
-Para quem é músico autoral, é extremamente importante que sua música esteja presente lá, pois é um mercado que já [rende muito mais que o CD físico](http://g1.globo.com/musica/noticia/streaming-de-musica-cresce-52-no-brasil-em-2016-e-ja-rende-o-triplo-de-venda-de-discos.ghtml) e só tende a crescer! No entanto, vejo que a maioria dos músicos não sabe como fazer ou simplesmente acha que é impossível fazer isso sem uma gravadora.
+Para quem é músico autoral, é extremamente importante que sua música esteja presente lá, pois é um mercado que já [rende muito mais que o CD físico](https://g1.globo.com/musica/noticia/streaming-de-musica-cresce-52-no-brasil-em-2016-e-ja-rende-o-triplo-de-venda-de-discos.ghtml) e só tende a crescer! No entanto, vejo que a maioria dos músicos não sabe como fazer ou simplesmente acha que é impossível fazer isso sem uma gravadora.
 
 Neste artigo vou mostrar que é simples (e pode ser gratuito) distribuir sua músicas para os serviços de streaming, que tornará mais fácil suas composições serem encontradas e ainda te render algum lucro!
 
@@ -75,6 +75,6 @@ Então qual é o melhor distribuidor gratuito? Como em todo bom comparativo a re
 
 Mas tenha em mente que não é só porque você distribuiu sua música para as principais lojas da internet que sua música vai ser descoberta por todos. Você tem que fazê-la chegar aos seus potenciais ouvintes! Para saber como fazer isso, deixo aí abaixo alguns links de sites que publicam conteúdos muito interessantes:
 
-- Blog Somos Música \([http://somosmusica.com.br/](http://somosmusica.com.br/)\)
-- Palco Digital \([http://www.opalcodigital.com.br/](http://www.opalcodigital.com.br/)\)
-- Blog Routenote \[inglês\] \([http://routenote.com/blog/](http://routenote.com/blog/)\)
+- Blog Somos Música \([https://somosmusica.com.br/](https://somosmusica.com.br/)\)
+- Palco Digital \([https://www.opalcodigital.com.br/](https://www.opalcodigital.com.br/)\)
+- Blog Routenote \[inglês\] \([https://routenote.com/blog/](https://routenote.com/blog/)\)

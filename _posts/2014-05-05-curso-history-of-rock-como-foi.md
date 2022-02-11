@@ -50,6 +50,6 @@ Se você se interessou, aproveite a oportunidade para [se inscrever][7] na turma
   [3]: /curso-songwriting-como-foi/
   [4]: https://www.coursera.org/course/historyofrock1
   [5]: https://www.coursera.org/course/historyofrock2
-  [6]: http://en.wikipedia.org/wiki/Disco_Demolition_Night
+  [6]: https://en.wikipedia.org/wiki/Disco_Demolition_Night
   [7]: https://www.coursera.org/course/historyofrock1
 

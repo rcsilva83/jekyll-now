@@ -20,7 +20,7 @@ tags:
   - webgoat
   - webscarab
 ---
-***Este artigo foi publicado na <a title="Edição 24 da Revista Espírito Livre" href="http://www.revista.espiritolivre.org/?p=921" target="_blank">edição 24</a> da <a title="Revista Espírito Livre" href="http://www.revista.espiritolivre.org/" target="_blank">Revista Espírito Livre</a>.***
+***Este artigo foi publicado na <a title="Edição 24 da Revista Espírito Livre" href="https://www.revista.espiritolivre.org/?p=921" target="_blank">edição 24</a> da <a title="Revista Espírito Livre" href="https://www.revista.espiritolivre.org/" target="_blank">Revista Espírito Livre</a>.***
 
 *** ***A [OWASP][1] (Open Web Application Security Project ou Projeto Aberto de Segurança em Aplicações Web) é uma organização mundial sem fins lucrativos focada em melhorar a segurança de softwares, em especial os softwares baseados na web. Sua missão é fazer com que a segurança das aplicações seja visível, de forma que pessoas e organizações possam fazer decisões conscientes a respeito dos verdadeiros riscos de segurança das aplicações.
 
@@ -105,16 +105,16 @@ Que fique claro, no entanto, que o que eu apresentei foi apenas uma pequena part
 
 <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		A:link { so-language: zxx } -->
 
-*   **Site da OWASP:** [http://www.owasp.org][6]
-*   **OWASP AppSec Brasil 2010:** [http://www.owasp.org/index.php/AppSec\_Brasil\_2010_(pt-br)][2]
+*   **Site da OWASP:** [https://www.owasp.org][6]
+*   **OWASP AppSec Brasil 2010:** [https://www.owasp.org/index.php/AppSec\_Brasil\_2010_(pt-br)][2]
 
 **Créditos:** Grande parte do conteúdo do artigo foi baseado no material do próprio site da OWASP.
 
 &nbsp;
 
- [1]: http://owasp.org/
- [2]: http://www.owasp.org/index.php/AppSec_Brasil_2010_(pt-br)
+ [1]: https://owasp.org/
+ [2]: https://www.owasp.org/index.php/AppSec_Brasil_2010_(pt-br)
  [3]: /wp-content/uploads/2011/04/webgoat.png
  [4]: /wp-content/uploads/2011/04/webscarab.png
  [5]: /wp-content/uploads/2011/04/esapi.png
- [6]: http://www.owasp.org/
+ [6]: https://www.owasp.org/

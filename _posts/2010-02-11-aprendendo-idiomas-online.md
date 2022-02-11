@@ -16,15 +16,15 @@ tags:
   - site
 ---
 <p style="text-align: justify;">
-  Depois de muito tempo sem escrever aqui no blog (justo agora que ele está todo bonito e com propagandas para eu poder ganhar um dindin) finalmente venho escrever mais um artigo com o intuito de ajudar outras pessoas com o conhecimento que tenho. Mas coloquei como meta escrever com uma periodicidade maior aqui. Tenho até um artigo pronto, que saiu na <a href="http://www.revista.espiritolivre.org/" target="_blank">Revista Espírito Livre</a> que ainda não postei! Mas chega de blá-blá-blá e vamos ao que interessa. ;)
+  Depois de muito tempo sem escrever aqui no blog (justo agora que ele está todo bonito e com propagandas para eu poder ganhar um dindin) finalmente venho escrever mais um artigo com o intuito de ajudar outras pessoas com o conhecimento que tenho. Mas coloquei como meta escrever com uma periodicidade maior aqui. Tenho até um artigo pronto, que saiu na <a href="https://www.revista.espiritolivre.org/" target="_blank">Revista Espírito Livre</a> que ainda não postei! Mas chega de blá-blá-blá e vamos ao que interessa. ;)
 </p>
 
 <p style="text-align: justify;">
-  Algo que gosto muito de fazer é aprender coisas novas, e idiomas é algo que nunca havia me chamado atenção. Mas comecei a aprender francês, para acompanhar minha esposa, e vi como é fácil estudar idiomas pela Internet! Falarei neste artigo de 2 que estou utilizando: <a href="http://www.livemocha.com" target="_blank">Livemocha</a> e <a href="http://www.bbc.co.uk/languages/" target="_blank">BBC Languages</a>.
+  Algo que gosto muito de fazer é aprender coisas novas, e idiomas é algo que nunca havia me chamado atenção. Mas comecei a aprender francês, para acompanhar minha esposa, e vi como é fácil estudar idiomas pela Internet! Falarei neste artigo de 2 que estou utilizando: <a href="https://www.livemocha.com" target="_blank">Livemocha</a> e <a href="https://www.bbc.co.uk/languages/" target="_blank">BBC Languages</a>.
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.livemocha.com" target="_blank"><strong>Livemocha</strong></a>
+  <a href="https://www.livemocha.com" target="_blank"><strong>Livemocha</strong></a>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
   <strong>Se você se interessou pelo Livemocha, não se cadastre agora!</strong> Me peça um convite que te enviarei, pois assim eu ganharei pontos e um curso de viagens (cujo preço normal é 10 dólares também)!
 </p>
 
-**<a href="http://www.bbc.co.uk/languages/" target="_blank">BBC Languages</a>**
+**<a href="https://www.bbc.co.uk/languages/" target="_blank">BBC Languages</a>**
 
 <p style="text-align: justify;">
   O site da rede de TV britânica BBC também tem uma parte dedicada ao aprendizado de idiomas. O material que eles têm é muito grande e totalmente gratuito. São vídeos, áudios, exercícios e textos que vão te ajudar a aprender ainda mais.

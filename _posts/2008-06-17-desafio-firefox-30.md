@@ -36,7 +36,7 @@ Viram que eu nenhuma das respostas é ligada à software livre; apenas à qualid
 
 Para quem aceitar o desafio, me disponho a dar dicas de extensões boas e aconselho desde já o uso da navegação por abas (abram em outra aba os links que abririam em outra janela a partir do botão do scroll do mouse). 
 
-Clique <a href="http://www.mozilla.com/" target="_blank">aqui</a> para ir à página de download.
+Clique <a href="https://www.mozilla.com/" target="_blank">aqui</a> para ir à página de download.
 
 Abraço!
 

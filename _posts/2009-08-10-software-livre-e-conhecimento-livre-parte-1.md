@@ -13,12 +13,12 @@ tags:
 ---
 <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } -->Antes de mais nada, devo dizer que este artigo é uma preparação para a apresentação que irei fazer no 
 
-<a href="http://gnugraf.org" target="_blank">II GNUGRAF</a> e é baseado na excelente palestra do professor Eurico Zimbres, da faculdade de Geologia da UERJ, grande ativista do software livre no Rio de Janeiro. Então segue o artigo e espero seus comentários a respeito, para que a palestra fique mais rica.
+<a href="https://gnugraf.org" target="_blank">II GNUGRAF</a> e é baseado na excelente palestra do professor Eurico Zimbres, da faculdade de Geologia da UERJ, grande ativista do software livre no Rio de Janeiro. Então segue o artigo e espero seus comentários a respeito, para que a palestra fique mais rica.
 
 **O que é software?**
 
 <p style="font-weight:normal;">
-  Quando alguém fala em <em>software</em>, qual a primeira coisa que lhe vem a mente? A grande maioria das pessoas pensará em <span style="text-decoration:none;"><strong>algo útil</strong></span> para executar uma tarefa no computador. Desenvolvedores de software, poderão pensar também em como ele foi feito – no seu <strong><a href="http://pt.wikipedia.org/wiki/C%C3%B3digo_fonte">código-fonte</a></strong>. Vejamos então a definição provida pela Wikipédia:
+  Quando alguém fala em <em>software</em>, qual a primeira coisa que lhe vem a mente? A grande maioria das pessoas pensará em <span style="text-decoration:none;"><strong>algo útil</strong></span> para executar uma tarefa no computador. Desenvolvedores de software, poderão pensar também em como ele foi feito – no seu <strong><a href="https://pt.wikipedia.org/wiki/C%C3%B3digo_fonte">código-fonte</a></strong>. Vejamos então a definição provida pela Wikipédia:
 </p>
 
 > <p style="font-weight:normal;">
@@ -65,8 +65,8 @@ Agora vamos fazer uma pequena brincadeira &#8211; leia o seguinte texto, escrito
   <strong>&#8220;Software é conhecimento!&#8221;</strong>
 </p>
 
-Nosso programa exemplo foi bastante simples, mas imagine a quantidade de conhecimento que existe num software como o <a href="http://www.gimp.org/" target="_blank">GIMP</a>, o [Inkscape][1], o [Ardour][2] e tantos outros!  O problema é que, infelizmente, o código-fonte de vários softwares não está disponível, restringindo todo o conhecimento a um pequeno grupo de pessoas. Para resolver esta situação que foi criado o software livre, mas isso será o assunto da [segunda parte do artigo][3]. Não deixe de ler!
+Nosso programa exemplo foi bastante simples, mas imagine a quantidade de conhecimento que existe num software como o <a href="https://www.gimp.org/" target="_blank">GIMP</a>, o [Inkscape][1], o [Ardour][2] e tantos outros!  O problema é que, infelizmente, o código-fonte de vários softwares não está disponível, restringindo todo o conhecimento a um pequeno grupo de pessoas. Para resolver esta situação que foi criado o software livre, mas isso será o assunto da [segunda parte do artigo][3]. Não deixe de ler!
 
- [1]: http://www.inkscape.org/
- [2]: http://ardour.org/
+ [1]: https://www.inkscape.org/
+ [2]: https://ardour.org/
  [3]: /software-livre-e-conhecimento-livre-parte-2/

@@ -13,7 +13,7 @@ tags:
   - lambda
 ---
 <p style="text-align: justify;">
-  Quem trabalha em TI (e possívelmente outras áreas técnicas) já devem ter ouvido falar da &#8220;Carreira em Y&#8221;. Este formato de plano de carreira prega uma progressão onde uma pessoa de perfil técnico não precisa passar desempenhar uma função administrativa (virar gerente) para subir. Ela pode continuar progredindo como um técnico até o fim de sua carreira na empresa. Isto foi criado para evitar um antigo problema enfrentado pelas empresas: perder um ótimo técnico para ganhar um péssimo gerente. É uma ideia boa, porém pouco implementada (e virou até motivo de <a href="http://desciclo.pedia.ws/wiki/Carreira_em_Y" target="_blank">piadas</a>).
+  Quem trabalha em TI (e possívelmente outras áreas técnicas) já devem ter ouvido falar da &#8220;Carreira em Y&#8221;. Este formato de plano de carreira prega uma progressão onde uma pessoa de perfil técnico não precisa passar desempenhar uma função administrativa (virar gerente) para subir. Ela pode continuar progredindo como um técnico até o fim de sua carreira na empresa. Isto foi criado para evitar um antigo problema enfrentado pelas empresas: perder um ótimo técnico para ganhar um péssimo gerente. É uma ideia boa, porém pouco implementada (e virou até motivo de <a href="https://desciclo.pedia.ws/wiki/Carreira_em_Y" target="_blank">piadas</a>).
 </p>
 
 <p style="text-align: justify;">
@@ -33,7 +33,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  O &#8220;Vale das Desilusões&#8221; (nome emprestado do <a href="http://en.wikipedia.org/wiki/Hype_cycle" target="_blank">Hype Cycle</a> do Gartner) representa aquele momento em que o técnico desaprendeu tanto, que se pergunta se ele escolheu a carreira certa. Neste momento, a muitos técnicos tentam migrar para a outra perna da carreira, mas a maioria persiste achando que vai melhorar.
+  O &#8220;Vale das Desilusões&#8221; (nome emprestado do <a href="https://en.wikipedia.org/wiki/Hype_cycle" target="_blank">Hype Cycle</a> do Gartner) representa aquele momento em que o técnico desaprendeu tanto, que se pergunta se ele escolheu a carreira certa. Neste momento, a muitos técnicos tentam migrar para a outra perna da carreira, mas a maioria persiste achando que vai melhorar.
 </p>
 
 <p style="text-align: justify;">
@@ -45,5 +45,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  PS: Apesar da experiência quase nula em edição gráfica, fiz este esquema rapidamente com o software livre <a href="http://www.inkscape.org/" target="_blank">Inkscape</a>!
+  PS: Apesar da experiência quase nula em edição gráfica, fiz este esquema rapidamente com o software livre <a href="https://www.inkscape.org/" target="_blank">Inkscape</a>!
 </p>

@@ -26,7 +26,7 @@ Sendo eu baterista, não tenho muito contato com instrumentos harmônicos e mel�
 
 ![Primeiro menu](/images/ear-training-menu1.png)
 
-Disponível para [desktop](http://www.miles.be/software/34-functional-ear-trainer-v2), [Android](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android) e [iOS](https://itunes.apple.com/kg/app/functional-ear-trainer/id1088761926), este aplicativo se baseia num método para identificar as notas dentro de uma determinada escala e trabalha com níveis predefinidos e treinos personalizados. Os 4 níveis básicos podem ser vistos na imagem abaixo.
+Disponível para [desktop](https://www.miles.be/software/34-functional-ear-trainer-v2), [Android](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android) e [iOS](https://itunes.apple.com/kg/app/functional-ear-trainer/id1088761926), este aplicativo se baseia num método para identificar as notas dentro de uma determinada escala e trabalha com níveis predefinidos e treinos personalizados. Os 4 níveis básicos podem ser vistos na imagem abaixo.
 
 ![Segundo menu](/images/ear-training-menu2.png)
 
