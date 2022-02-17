@@ -17,7 +17,7 @@ tags:
   - routenote
 date: '2017-07-22 13:00:00 -0300'
 ---
-**Atualização 08/11/2021**: não tive boas experiências com a Freshtunes, que indico neste artigo. Leia [aqui](desrecomendando-freshtunes) o meu relato.
+**Atualização 08/11/2021**: não tive boas experiências com a Freshtunes, que indico neste artigo. Leia [aqui](/desrecomendando-freshtunes) o meu relato.
 
 **Atualização 01/02/2018**: Atualmente o OneRPM distribui para o iTunes/Apple Music gratuitamente e se tornou minha primeira opção dentre os distribuidores gratuitos. Se quiser um comparativo muito mais completo que o meu, recomento [este](https://www.aristake.com/post/cd-baby-tunecore-ditto-mondotunes-zimbalam-or) (em inglês).
 
