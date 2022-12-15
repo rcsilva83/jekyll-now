@@ -2,7 +2,7 @@
 author: Rodrigo Carvalho
 layout: post
 comments: true
-published: false
+published: true
 title: Minha jornada de "degoogle" até aqui
 categories:
   - Tecnologia
